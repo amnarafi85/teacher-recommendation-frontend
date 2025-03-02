@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>QueryBot - UMT</title>
+    <link rel="stylesheet" href="querybot.css">
+</head>
+<body>
+
+    <!-- Animated Note Section -->
+    <div class="info-note" id="infoNote">
+        <p>📢 <strong>Note:</strong> We currently have limited teachers' information regarding the SST Department (INFS only). More information will be added soon.</p>
+    </div>
+
+    <!-- Header Section -->
+    <header>
+        <h1>🤖 QueryBot - Ask About Teachers</h1>
+    </header>
+
+    <!-- Query Form -->
+    <div class="query-form">
+        <h2>Ask a Query About a Teacher</h2>
+
+        <!-- Select Teacher -->
+        <label for="teacherSelect">Select a Teacher:</label>
+        <select id="teacherSelect">
+            <option value="">-- Choose a Teacher --</option>
+        </select>
+
+        <!-- Select Query Type -->
+        <label for="queryType">Select What You Want to Know:</label>
+        <select id="queryType">
+            <option value="">-- Choose a Topic --</option>
+            <option value="teaching_methodology">Teaching Methodology</option>
+            <option value="grading_criteria">Grading Criteria</option>
+            <option value="assignment_taking">Assignment Taking</option>
+            <option value="quiz_taking">Quiz Taking</option>
+            <option value="student_preference">Student Preference</option>
+            <option value="girls_boys_difference">Boys vs Girls Treatment</option>
+            <option value="paper_checking">Paper Checking</option>
+            <option value="class_behaviour">Class Behaviour</option>
+            <option value="description">Teacher Description</option>
+            <option value="viva_taking">Viva Taking</option>
+            <option value="you_should_opt_or_not">Should You Opt?</option>
+        </select>
+
+        <!-- Get Information Button -->
+        <button onclick="getTeacherInfo()">Get Information</button>
+
+        <!-- Display Response -->
+        <div class="response-container">
+            <h3>Response:</h3>
+            <p id="responseText">Select a teacher and query to see details.</p>
+        </div>
+    </div>
+
+    <script src="querybot.js"></script>
+    <script>
+        // Automatically hide the note after 25 seconds
+        setTimeout(() => {
+            const note = document.getElementById('infoNote');
+            if (note) {
+                note.classList.add('fade-out');
+                setTimeout(() => {
+                    note.style.display = 'none';
+                }, 1000);
+            }
+        }, 25000);
+    </script>
+</body>
+</html>

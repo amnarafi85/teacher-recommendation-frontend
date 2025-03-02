@@ -1,0 +1,174 @@
+/* General Styling */
+body {
+    font-family: 'Arial', sans-serif;
+    background: linear-gradient(to bottom, #0A1E40, #102A52, #142F62);
+    color: white;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+/* Header */
+header {
+    background: #162A46;
+    padding: 20px;
+    border-bottom: 4px solid #F5A623;
+}
+
+/* Animated Information Note */
+.info-note {
+    background: linear-gradient(90deg, #FF5733, #FFC300, #33FF57);
+    color: #102A52;
+    padding: 15px;
+    border-radius: 8px;
+    font-size: 16px;
+    font-weight: bold;
+    text-align: center;
+    width: 60%;
+    margin: 20px auto;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.3);
+    animation: slideIn 1s ease-in-out;
+    transition: opacity 1s ease-in-out;
+}
+
+/* Slide-In Animation */
+@keyframes slideIn {
+    from {
+        opacity: 0;
+        transform: translateY(-20px);
+    }
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+/* Fade-Out Animation */
+.fade-out {
+    animation: fadeOut 1s ease-in-out forwards;
+}
+
+@keyframes fadeOut {
+    from {
+        opacity: 1;
+    }
+    to {
+        opacity: 0;
+    }
+}
+
+/* Query Form */
+.query-form {
+    background: #1B2C55;
+    padding: 25px;
+    border-radius: 12px;
+    width: 60%;
+    margin: 30px auto;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.3);
+    transition: transform 0.3s ease-in-out;
+}
+
+/* Adjust Form for Different Screens */
+@media (max-width: 1024px) {
+    .query-form {
+        width: 75%;
+    }
+}
+
+@media (max-width: 768px) {
+    .query-form {
+        width: 90%;
+        padding: 20px;
+    }
+    .info-note {
+        width: 80%;
+        font-size: 14px;
+        padding: 12px;
+    }
+}
+
+/* Hover Effect */
+.query-form:hover {
+    transform: scale(1.02);
+}
+
+/* Labels */
+label {
+    font-size: 18px;
+    display: block;
+    margin-top: 15px;
+    color: #FFD369;
+}
+
+/* Input & Select Fields */
+select, button {
+    width: 95%;
+    padding: 12px;
+    margin-top: 10px;
+    border: 2px solid #F5A623;
+    border-radius: 5px;
+    font-size: 16px;
+    background: #1F3A68;
+    color: white;
+    transition: all 0.3s ease-in-out;
+}
+
+/* Hover Effect */
+select:hover {
+    background: #254270;
+    border-color: #FFD700;
+}
+
+/* Response Section */
+.response-container {
+    margin-top: 20px;
+    padding: 15px;
+    background: #223669;
+    border-radius: 10px;
+    transition: all 0.3s ease-in-out;
+}
+
+/* Adjust Response Section for Small Screens */
+@media (max-width: 768px) {
+    .response-container {
+        padding: 12px;
+    }
+}
+
+/* Response Text */
+#responseText {
+    font-size: 18px;
+    color: #FFD369;
+}
+
+/* Button Styling */
+button {
+    background: linear-gradient(135deg, #F5A623, #FFB600);
+    color: white;
+    border: none;
+    cursor: pointer;
+    transition: all 0.3s ease-in-out;
+    font-size: 18px;
+    padding: 14px;
+    border-radius: 8px;
+    font-weight: bold;
+    width: 100%;
+    margin-top: 15px;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.3);
+}
+
+/* Adjust Button for Mobile */
+@media (max-width: 768px) {
+    button {
+        font-size: 16px;
+        padding: 12px;
+    }
+}
+
+/* Hover Effect for Button */
+button:hover {
+    background: linear-gradient(135deg, #FFD700, #FFC400);
+    color: black;
+    transform: scale(1.08);
+    box-shadow: 0px 6px 15px rgba(0, 0, 0, 0.5);
+}

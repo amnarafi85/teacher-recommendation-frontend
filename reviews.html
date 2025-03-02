@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Student Reviews - UMT</title>
+    <link rel="stylesheet" href="reviews.css">
+</head>
+<body>
+
+    <!-- Header Section -->
+    <header>
+        <h1>⭐ STUDENT REVIEWS</h1>
+    </header>
+
+    <!-- Review Form -->
+    <div class="review-form">
+        <h2>Submit Your Review</h2>
+
+        <!-- Select Teacher -->
+        <label for="teacherSelect">Select a Teacher:</label>
+        <select id="teacherSelect">
+            <option value="">-- Choose a Teacher --</option>
+        </select>
+
+        <!-- Student ID -->
+        <label for="studentId">Your Student ID:</label>
+        <input type="text" id="studentId" placeholder="Enter your Student ID">
+
+        <!-- Subject -->
+        <label for="subject">Subject Taught by Teacher:</label>
+        <input type="text" id="subject" placeholder="Enter the subject name">
+
+        <!-- Grade (Dropdown) -->
+        <label for="grade">Grade Achieved (Optional):</label>
+        <select id="grade" class="grade-dropdown">
+            <option value="">-- Select Grade --</option>
+            <option value="A">A</option>
+            <option value="A-">A-</option>
+            <option value="B+">B+</option>
+            <option value="B">B</option>
+            <option value="B-">B-</option>
+            <option value="C+">C+</option>
+            <option value="C">C</option>
+            <option value="C-">C-</option>
+            <option value="F">F</option>
+            <option value="F">SA</option>
+        </select>
+
+        <!-- Behavior Rating -->
+        <label>Teacher's Behavior:</label>
+        <div class="star-rating behavior-stars">
+            <span class="star" data-value="1">★</span>
+            <span class="star" data-value="2">★</span>
+            <span class="star" data-value="3">★</span>
+            <span class="star" data-value="4">★</span>
+            <span class="star" data-value="5">★</span>
+        </div>
+
+        <!-- Grading Criteria Rating -->
+        <label>Grading Criteria:</label>
+        <div class="star-rating grading-stars">
+            <span class="star" data-value="1">★</span>
+            <span class="star" data-value="2">★</span>
+            <span class="star" data-value="3">★</span>
+            <span class="star" data-value="4">★</span>
+            <span class="star" data-value="5">★</span>
+        </div>
+
+        <!-- Teaching Methodology Rating -->
+        <label>Teaching Methodology:</label>
+        <div class="star-rating teaching-stars">
+            <span class="star" data-value="1">★</span>
+            <span class="star" data-value="2">★</span>
+            <span class="star" data-value="3">★</span>
+            <span class="star" data-value="4">★</span>
+            <span class="star" data-value="5">★</span>
+        </div>
+
+        <!-- Review Text -->
+        <textarea id="reviewText" placeholder="Write your review here..."></textarea>
+
+        <!-- Submit Button -->
+        <button onclick="submitReview()">Submit Review</button>
+    </div>
+
+    <!-- Filter Dropdown -->
+    <div class="filter-container">
+        <label for="teacherFilter">Filter by Teacher:</label>
+        <select id="teacherFilter" onchange="filterReviews()">
+            <option value="all">All Teachers</option>
+        </select>
+    </div>
+
+    <!-- Reviews Section -->
+    <section id="reviews-section">
+        <h2>Student Reviews</h2>
+        <div id="reviews-container">
+            <!-- Reviews will be dynamically inserted here -->
+        </div>
+    </section>
+
+    <script src="reviews.js"></script>
+</body>
+</html>

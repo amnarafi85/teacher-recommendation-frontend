@@ -1,0 +1,2621 @@
+[
+    {
+        "position": "Dean School of Systems and Technology",
+        "name": "Dr Atif Alvi",
+        "academic_info": "Professor\nPhD - Computer Science, University of Cambridge, UK\nMS - Computer Science, LUMS, Pakistan",
+        "email": "sst.dean@umt.edu.pk",
+        "image_url": "https://admin.umt.edu.pk/Media/UserProfile/638744405719577533957.jpg",
+        "image_path": "faculty_images/Dr_Atif_Alvi.jpg",
+        "linkedin_url": "https://pk.linkedin.com/in/atif-alvi-57060656"
+    },
+    {
+        "position": "Acting Chairperson - Department of Informatics and Systems",
+        "name": "Dr Kashif Ishaq",
+        "academic_info": "HEC Approved PhD Supervisor\nAssistant Professor\nPhD Computer Science, Universiti Kebangsaan, Malaysia\nMS Information Technology, UMT Lahore, Pakistan",
+        "email": "infs.cod@umt.edu.pk",
+        "image_url": "https://admin.umt.edu.pk/Media/UserProfile/63874433411021990821.jpg",
+        "image_path": "faculty_images/Dr_Kashif_Ishaq.jpg",
+        "linkedin_url": "https://pk.linkedin.com/in/dr-kashif-ishaq-5689041a6"
+    },
+    {
+        "position": "Chairperson, Department of Computer Science",
+        "name": "Dr Malik Tahir Hassan",
+        "academic_info": "Associate Professor\nHEC Approved Supervisor\nPost Doc Computer Science,, Gwangju Institute of Science and Technology (GIST),, South Korea\nPhD - Computer Science, Lahore University of Management Sciences, Pakistan",
+        "email": "cs.cod@umt.edu.pk",
+        "image_url": "https://admin.umt.edu.pk/Media/UserProfile/638706405349490007949.jpg",
+        "image_path": "faculty_images/Dr_Malik_Tahir_Hassan.jpg",
+        "linkedin_url": "https://pk.linkedin.com/in/malik-tahir-hassan-38a93963"
+    },
+    {
+        "position": "Chairperson, Department of Software Engineering",
+        "name": "Dr Tayyaba Anees",
+        "academic_info": "Associate Professor\nPhD - Computer Science, Vienna University of Technology, Austria\nMSc - Computer Science, University of the Punjab, Pakistan",
+        "email": "se.cod@umt.edu.pk",
+        "image_url": "https://admin.umt.edu.pk/Media/UserProfile/63874433182014378314.jpg",
+        "image_path": "faculty_images/Dr_Tayyaba_Anees.jpg",
+        "linkedin_url": "https://pk.linkedin.com/in/tayyaba-anees-267590107"
+    },
+    {
+        "position": "Chairperson, Department of Artificial Intelligence",
+        "name": "Dr Muhammad Shoaib Farooq",
+        "academic_info": "Professor\nHEC Approved Supervisor\nPhD - Computer Science, Abdul Wali Khan University, Pakistan\nMS - Computer Science, Government College University, Pakistan",
+        "email": "ai.cod@umt.edu.pk",
+        "image_url": "https://admin.umt.edu.pk/Media/UserProfile/638744415775665585566.jpg",
+        "image_path": "faculty_images/Dr_Muhammad_Shoaib_Farooq.jpg",
+        "linkedin_url": "https://pk.linkedin.com/in/dr-muhammad-shoaib-farooq-462b3914"
+    },
+    {
+        "position": "Professor",
+        "name": "Dr Yaser Daanial Khan",
+        "academic_info": "HEC Approved Supervisor\nPhD - Computer Science, Abdul Wali Khan University, Pakistan\nMS - Computer Science, Government College University, Pakistan",
+        "email": "Yaser.Khan@umt.edu.pk",
+        "image_url": "https://admin.umt.edu.pk/Media/UserProfile/635896051624861722486.jpg",
+        "image_path": "faculty_images/Dr_Yaser_Daanial_Khan.jpg",
+        "linkedin_url": "https://www.linkedin.com/posts/umt-official_entrepreneurship-startup-myumt-activity-7017000102238019584-mk79"
+    },
+    {
+        "position": "Professor",
+        "name": "Dr Shaukat Iqbal",
+        "academic_info": "HEC Approved Supervisor\nPhD - Computer System Engineering, Ghulam Ishaq Khan Institute of Engineering Sciences & Technology, Pakistan\nMS - Computer System Engineering, Ghulam Ishaq Khan Institute of Engineering Sciences & Technology, Pakistan",
+        "email": "shaukat.iqbal@umt.edu.pk",
+        "image_url": "https://admin.umt.edu.pk/Media/UserProfile/638747786505664135566.jpg",
+        "image_path": "faculty_images/Dr_Shaukat_Iqbal.jpg",
+        "linkedin_url": "https://pk.linkedin.com/in/shaukat-iqbal-07198b10a"
+    },
+    {
+        "position": "Associate Professor",
+        "name": "Dr Amjad Hussain Zahid",
+        "academic_info": "PhD Computer Sciences, University of Engineering and Technology (UET), Pakistan\nMS - Computer Science, Government College University, Pakistan\nMSc, Quaid-i-Azam University, Pakistan",
+        "email": "amjad.zahid@umt.edu.pk",
+        "image_url": "https://admin.umt.edu.pk/Media/UserProfile/638744331682708334270.jpg",
+        "image_path": "faculty_images/Dr_Amjad_Hussain_Zahid.jpg",
+        "linkedin_url": "https://pk.linkedin.com/in/dr-amjad-hussain-zahid-bb463520b"
+    },
+    {
+        "position": "Associate Professor",
+        "name": "Dr Naeem Ahmed",
+        "academic_info": "PhD Computer Science, International Islamic University, Malaysia\nMS Computer Engineering, Mid Sweden University, Sweden",
+        "email": "naeem.ahmed@umt.edu.pk",
+        "image_url": "https://admin.umt.edu.pk/Media/UserProfile/638745467491825156182.jpg",
+        "image_path": "faculty_images/Dr_Naeem_Ahmed.jpg",
+        "linkedin_url": "https://pk.linkedin.com/in/naeem-ahmed-88b3a4282"
+    },
+    {
+        "position": "Associate Professor",
+        "name": "Dr Ashfaq Ahmad",
+        "academic_info": "PhD Instrument Science and Technology, University of Science and Technology, China\nMS Electronics and Communication, University of Lahore, Pakistan",
+        "email": "ashfaqahmad@umt.edu.pk",
+        "image_url": "https://admin.umt.edu.pk/Media/UserProfile/63874433952095469995.jpg",
+        "image_path": "faculty_images/Dr_Ashfaq_Ahmad.jpg",
+        "linkedin_url": "https://pk.linkedin.com/in/dr-ashfaq-ahmad-2935a120"
+    },
+    {
+        "position": "Associate Professor",
+        "name": "Dr Syed Baqar Hussain",
+        "academic_info": "PhD - Information and Communication Engineering, Shanghai Jiao Tong University, China\nMS - Telecommunication Engineering, National University of Computer and Emerging Sciences, Pakistan",
+        "email": "baqar.hussain@umt.edu.pk",
+        "image_url": "https://admin.umt.edu.pk/Media/UserProfile/638744401968585646858.jpg",
+        "image_path": "faculty_images/Dr_Syed_Baqar_Hussain.jpg",
+        "linkedin_url": "https://pk.linkedin.com/in/syed-baqar-hussian-32797456"
+    },
+    {
+        "position": "Associate Professor",
+        "name": "Dr Amber Sultan",
+        "academic_info": "PhD in Information and Communication Engineering, Shanghai Jiao Tong University, China\nMasters of Sciences in Telecommunication Engineering, NUCES (Lahore Campus), Pakistan",
+        "email": "amber.sultan@umt.edu.pk",
+        "image_url": "https://admin.umt.edu.pk/Media/UserProfile/638669338532648943264.jpg",
+        "image_path": "faculty_images/Dr_Amber_Sultan.jpg",
+        "linkedin_url": "https://pk.linkedin.com/in/amber-sultan-97487137"
+    },
+    {
+        "position": "Associate Professor",
+        "name": "Dr Muhammad Tahir Mushtaq",
+        "academic_info": "HEC Approved Supervisor\nPhD Electrical Engineering, Technical University GRAZ, Austria\nM Phil Physics, Government College University, Pakistan",
+        "email": "tahir.mushtaq@umt.edu.pk",
+        "image_url": "https://admin.umt.edu.pk/Media/UserProfile/638711573387042075704.jpg",
+        "image_path": "faculty_images/Dr_Muhammad_Tahir_Mushtaq.jpg",
+        "linkedin_url": "https://pk.linkedin.com/in/muhammad-tahir-mushtaq-9a2ba031a"
+    },
+    {
+        "position": "Associate Professor",
+        "name": "Dr Syed Farooq Ali",
+        "academic_info": "PhD - Computer Science, University of Management & Technology\nMS - Computer Science, Ohio State University, USA",
+        "email": "farooq.ali@umt.edu.pk",
+        "image_url": "https://admin.umt.edu.pk/Media/UserProfile/638745467028828280882.jpg",
+        "image_path": "faculty_images/Dr_Syed_Farooq_Ali.jpg",
+        "linkedin_url": "https://pk.linkedin.com/in/dr-syed-farooq-ali-78b43844"
+    },
+    {
+        "position": "Associate Dean SST",
+        "name": "Dr Sajid Mahmood",
+        "academic_info": "Associate Professor\nHEC Approved Supervisor\nPhD - Computer Science, University of Engineering & Technology, Pakistan\nMS - Computer Science, University of Engineering & Technology, Pakistan",
+        "email": "ad.sst@umt.edu.pk",
+        "image_url": "https://admin.umt.edu.pk/Media/UserProfile/638744405579986063998.jpg",
+        "image_path": "faculty_images/Dr_Sajid_Mahmood.jpg",
+        "linkedin_url": "https://pk.linkedin.com/in/sajid-mahmood-362a8536"
+    },
+    {
+        "position": "Assistant Professor",
+        "name": "Hafsa Zafar",
+        "academic_info": "MS Computer Science, Lahore University of Management Sciences, Pakistan\nBBIT, University of Punjab, Pakistan",
+        "email": "hafsa.zafar@umt.edu.pk",
+        "image_url": "https://admin.umt.edu.pk/Media/UserProfile/638744329424966311496.jpg",
+        "image_path": "faculty_images/Hafsa_Zafar.jpg",
+        "linkedin_url": "https://pk.linkedin.com/in/hafsa-zafar-091b1320a"
+    },
+    {
+        "position": "Assistant Professor",
+        "name": "Dr Muhammad Asad Arshed",
+        "academic_info": "PhD Computer Science, Islamia University of Bahawalpur, Pakistan\nMS Computer Science, Islamia University of Bahawalpur, Pakistan",
+        "email": "asad.arshed@umt.edu.pk",
+        "image_url": "https://admin.umt.edu.pk/Media/UserProfile/638706410569019350901.jpg",
+        "image_path": "faculty_images/Dr_Muhammad_Asad_Arshed.jpg",
+        "linkedin_url": "https://pk.linkedin.com/in/dr-asad-arshed-b7280b262"
+    },
+    {
+        "position": "Assistant Professor",
+        "name": "Faria Nazir",
+        "academic_info": "Program Head\nPhD Software Engineering, UET, Taxila, Pakistan\nMS Software Engineering, UET, Taxila, Pakistan",
+        "email": "faria.nazir@umt.edu.pk",
+        "image_url": "https://admin.umt.edu.pk/Media/UserProfile/638744333118504639850.jpg",
+        "image_path": "faculty_images/Faria_Nazir.jpg",
+        "linkedin_url": "https://sst.umt.edu.pk/se/Faculty-and-Staff.aspx"
+    },
+    {
+        "position": "Assistant Professor",
+        "name": "Dr Fawad Ali Khan",
+        "academic_info": "PhD Computer Science, University of Malaya, Malaysia\nMS Information Technology, Agriculture University, Faisalabad, Pakistan",
+        "email": "fawad.ali@umt.edu.pk",
+        "image_url": "https://admin.umt.edu.pk/Media/UserProfile/637993571897597966759.jpg",
+        "image_path": "faculty_images/Dr_Fawad_Ali_Khan.jpg",
+        "linkedin_url": "https://pk.linkedin.com/in/fawad-khan-33724b342"
+    },
+    {
+        "position": "Assistant Professor",
+        "name": "Dr Muhammad Tanveer",
+        "academic_info": "PhD Computer Science, Ghulam Ishaq Khan Institute of Science and Technology, Pakistan\nM Phil Computer science, IMS Lahore, Pakistan",
+        "email": "muhammad_tanveer@umt.edu.pk",
+        "image_url": "https://admin.umt.edu.pk/Media/UserProfile/638744333405269515526.jpg",
+        "image_path": "faculty_images/Dr_Muhammad_Tanveer.jpg",
+        "linkedin_url": "https://pk.linkedin.com/in/dr-muhammad-tanveer-hussain-aa061020"
+    },
+    {
+        "position": "Assistant Professor",
+        "name": "Dr Muhammad Azeem Javed",
+        "academic_info": "PhD Electrical Engineering, Lahore University of Management Sciences, Pakistan\nMS Electrial Engineering, National University of Science & Technology (NUST), Pakistan",
+        "email": "azeem.javed@umt.edu.pk",
+        "image_url": "https://admin.umt.edu.pk/Media/UserProfile/638744335665386336538.jpg",
+        "image_path": "faculty_images/Dr_Muhammad_Azeem_Javed.jpg",
+        "linkedin_url": "https://pk.linkedin.com/in/muhammad-azeem-a185bb202"
+    },
+    {
+        "position": "Assistant Professor",
+        "name": "Dr Muhammad Nadeem Ashraf",
+        "academic_info": "HEC Approved PhD Supervisor\nPhD Computer Science, COMSATS University, Pakistan\nMS Computer Science, COMSATS University, Pakistan\nMSc Computer Science, University of Engineering and Technology (UET), Pakistan",
+        "email": "nadeem.ashraf@umt.edu.pk",
+        "image_url": "https://admin.umt.edu.pk/Media/UserProfile/638744336085767180576.jpg",
+        "image_path": "faculty_images/Dr_Muhammad_Nadeem_Ashraf.jpg",
+        "linkedin_url": "https://pk.linkedin.com/in/dr-muhammad-nadeem-ashraf-08528881"
+    },
+    {
+        "position": "Assistant Professor",
+        "name": "Dr Muhammad Husnain Ashfaq",
+        "academic_info": "PhD - Automation, University of Malaya, Malaysia\nMSc Electrical Engineering, Hochschule Darmstadt University of Applied Sciences, Germany",
+        "email": "husnain.ashfaq@umt.edu.pk",
+        "image_url": "https://admin.umt.edu.pk/Media/UserProfile/638744336213230436323.jpg",
+        "image_path": "faculty_images/Dr_Muhammad_Husnain_Ashfaq.jpg",
+        "linkedin_url": "https://pk.linkedin.com/in/dr-husnain-ashfaq-939866120"
+    },
+    {
+        "position": "Assistant Professor",
+        "name": "Dr Sadaf Jabeen",
+        "academic_info": "PhD Computer Science, Lahore University of Management Sciences, Pakistan\nMS Computer Science, National University of Computer and Emerging Sciences, Pakistan",
+        "email": "",
+        "image_url": "https://admin.umt.edu.pk/Media/UserProfile/638744401663981080398.jpg",
+        "image_path": "faculty_images/Dr_Sadaf_Jabeen.jpg",
+        "linkedin_url": "https://pk.linkedin.com/in/sadaf-jabeen-b329095a"
+    },
+    {
+        "position": "Assistant Professor",
+        "name": "Dr Bilal Ashfaq Ahmed",
+        "academic_info": "PhD Computer Science, Universiti Teknologi Malaysia (UTM), Johor, Malaysia\nMSc Computer Engineering, University of Engineering and Technology, Lahore, Pakistan",
+        "email": "bilal.ahmed@umt.edu.pk",
+        "image_url": "https://admin.umt.edu.pk/Media/UserProfile/638744402218497228849.jpg",
+        "image_path": "faculty_images/Dr_Bilal_Ashfaq_Ahmed.jpg",
+        "linkedin_url": "https://pk.linkedin.com/in/bilal-ashfaq-ahmed-7292bb22"
+    },
+    {
+        "position": "Assistant Professor",
+        "name": "Dr Saima Waseem",
+        "academic_info": "PhD Electrical Engineering, Universiti Teknologi Malaysia (UTM), Johor, Malaysia\nMSc Computer Engineering, National University of Science and Technology (NUST),, Rawalpindi, Pakistan",
+        "email": "saima.waseem@umt.edu.pk",
+        "image_url": "https://admin.umt.edu.pk/Media/UserProfile/638744402088371258837.jpg",
+        "image_path": "faculty_images/Dr_Saima_Waseem.jpg",
+        "linkedin_url": "https://www.linkedin.com/posts/dr-saima-waseem-6433a1170_i-had-the-privilege-of-serving-as-an-external-activity-7287097241981374466-19kw"
+    },
+    {
+        "position": "Assistant Professor",
+        "name": "Dr Jameel Ahmad",
+        "academic_info": "Director Final Year Project CS\nHEC Approved Supervisor\nPhD - Electrical Engineering, University of Engineering & Technology, Lahore, Pakistan\nMS - Electrical Engineering, University of Southern California, USA",
+        "email": "jameel.ahmad@umt.edu.pk",
+        "image_url": "https://admin.umt.edu.pk/Media/UserProfile/638744329822765323276.jpg",
+        "image_path": "faculty_images/Dr_Jameel_Ahmad.jpg",
+        "linkedin_url": "https://www.linkedin.com/in/jameelahmadnavabi"
+    },
+    {
+        "position": "Assistant Professor",
+        "name": "Dr Muhammad Adnan",
+        "academic_info": "PhD - Information and Communication Systems, Beijing University of Posts and Telecommunication, China\nMS - Telecommunication Engineering, University of Engineering & Technology, Pakistan",
+        "email": "muhammad.adnan@umt.edu.pk",
+        "image_url": "https://admin.umt.edu.pk/Media/UserProfile/638747998871378467137.jpg",
+        "image_path": "faculty_images/Dr_Muhammad_Adnan.jpg",
+        "linkedin_url": "https://pk.linkedin.com/in/dr-muhammad-adnan-8a7a75312"
+    },
+    {
+        "position": "Assistant Professor",
+        "name": "Dr Muhammad Aamir Khan",
+        "academic_info": "PhD - Electronics Engineering, University of Twente, Netherlands\nMSc - System on-chip Design, Royal Institute of Technology, Sweden",
+        "email": "aamir.khan@umt.edu.pk",
+        "image_url": "https://admin.umt.edu.pk/Media/UserProfile/unknown.jpg",
+        "image_path": "faculty_images/Dr_Muhammad_Aamir_Khan.jpg",
+        "linkedin_url": "https://sa.linkedin.com/in/muhammad-aamir-khan"
+    },
+    {
+        "position": "Assistant Professor",
+        "name": "Dr Ghulam Mustafa",
+        "academic_info": "Program Manager BSIT\nHEC Approved Supervisor\nPhD - Computer Science, University of Engineering & Technology, Pakistan\nMS - Computer Science, University of Management & Technology, Pakistan",
+        "email": "ghulammustafa@umt.edu.pk",
+        "image_url": "https://admin.umt.edu.pk/Media/UserProfile/638744331966523626652.jpg",
+        "image_path": "faculty_images/Dr_Ghulam_Mustafa.jpg",
+        "linkedin_url": "https://pk.linkedin.com/in/ghulam-mustafa-398007326"
+    },
+    {
+        "position": "Assistant Professor",
+        "name": "Dr Ehtesham Ul Haq Dar",
+        "academic_info": "PhD - Computer Science, Technical University of Vienna, Austria\nMSc - Computer Science, University of the Punjab, Pakistan",
+        "email": "ehtesham.haq@umt.edu.pk",
+        "image_url": "https://admin.umt.edu.pk/Media/UserProfile/unknown.jpg",
+        "image_path": "faculty_images/Dr_Ehtesham_Ul_Haq_Dar.jpg",
+        "linkedin_url": "https://pk.linkedin.com/in/dr-ehtesham-ul-haq-dar-637435168"
+    },
+    {
+        "position": "Assistant Professor",
+        "name": "Ahmad Sohail Aslam",
+        "academic_info": "PhD Scholar - Computer Science, University of South Florida, USA\nMS - Computer Science, University of South Florida, USA",
+        "email": "ahmad.aslam@umt.edu.pk",
+        "image_url": "https://admin.umt.edu.pk/Media/UserProfile/638706391619781364978.jpg",
+        "image_path": "faculty_images/Ahmad_Sohail_Aslam.jpg",
+        "linkedin_url": "https://pk.linkedin.com/in/sohail-aslam-92811178"
+    },
+    {
+        "position": "Assistant Professor",
+        "name": "Fahad Ali",
+        "academic_info": "MS - Electric Power and Energy Engineering, University of Management & Technology, Pakistan\nBS - Electrical Engineering, Bahauddin Zakariya University, Pakistan",
+        "email": "fahad.ali@umt.edu.pk",
+        "image_url": "https://admin.umt.edu.pk/Media/UserProfile/638744328989131918913.jpg",
+        "image_path": "faculty_images/Fahad_Ali.jpg",
+        "linkedin_url": "https://pk.linkedin.com/in/fahad-ali-809ba01b6"
+    },
+    {
+        "position": "Assistant Professor",
+        "name": "Arslan Asif",
+        "academic_info": "PhD Scholar - Computer Science, University of Management & Technology, Pakistan\nMS - Computer Science, Lahore University of Management Sciences, Pakistan",
+        "email": "arslan.asif@umt.edu.pk",
+        "image_url": "https://admin.umt.edu.pk/Media/UserProfile/638744328376470472647.jpg",
+        "image_path": "faculty_images/Arslan_Asif.jpg",
+        "linkedin_url": "https://pk.linkedin.com/in/drarslanasif"
+    },
+    {
+        "position": "Assistant Professor",
+        "name": "Fakhar Abbas",
+        "academic_info": "PhD Scholar - Software Engineering, University of Management & Technology, Pakistan\nMS - Information Technology, Royal Melbourne Institute of Technology, Australia",
+        "email": "fakhar.abbas@umt.edu.pk",
+        "image_url": "https://admin.umt.edu.pk/Media/UserProfile/63874432918024353524.jpg",
+        "image_path": "faculty_images/Fakhar_Abbas.jpg",
+        "linkedin_url": "https://pk.linkedin.com/in/fakhar-abbas-6a7a1a117"
+    },
+    {
+        "position": "Assistant Professor",
+        "name": "Ateeqa Naseer",
+        "academic_info": "PhD Scholar - Software Engineering, University of Management & Technology, Pakistan\nMS - Software Engineering, International Islamic University, Pakistan",
+        "email": "ateeqa.naseer@umt.edu.pk",
+        "image_url": "https://admin.umt.edu.pk/Media/UserProfile/638706391739136261913.jpg",
+        "image_path": "faculty_images/Ateeqa_Naseer.jpg",
+        "linkedin_url": "https://pk.linkedin.com/in/ateeqa-naseer"
+    },
+    {
+        "position": "Assistant Professor",
+        "name": "Dr Usman Inayat",
+        "academic_info": "Program Head Computer Science\nHEC Approved Supervisor\nPost Doc, Institut de Recherche Dupuy de Lome IRDL University of Brest, France\nPhD Computer Science, University of Management & Technology, Pakistan",
+        "email": "usman.inayat@umt.edu.pk",
+        "image_url": "https://admin.umt.edu.pk/Media/UserProfile/638744330914484440448.jpg",
+        "image_path": "faculty_images/Dr_Usman_Inayat.jpg",
+        "linkedin_url": "https://pk.linkedin.com/in/usman-inayat-b87806190"
+    },
+    {
+        "position": "Assistant Professor",
+        "name": "Muhammad Asim Butt",
+        "academic_info": "PhD Scholar - Electrical Engineering, University of Management & Technology, Pakistan\nMS - Computer Engineeringngineering, Lahore University of Management Sciences, Pakistan",
+        "email": "asim.butt@umt.edu.pk",
+        "image_url": "https://admin.umt.edu.pk/Media/UserProfile/638744328206473668647.jpg",
+        "image_path": "faculty_images/Muhammad_Asim_Butt.jpg",
+        "linkedin_url": "https://pk.linkedin.com/in/muhammadasimbutt"
+    },
+    {
+        "position": "Assistant Professor",
+        "name": "Dr Nosheen Qamar",
+        "academic_info": "PhD Software Engineering, FAST National University, Pakistan\nMS Hons Software Engineering, FAST National University, Pakistan",
+        "email": "nosheen.qamar@umt.edu.pk",
+        "image_url": "https://admin.umt.edu.pk/Media/UserProfile/638747789516752897675.jpg",
+        "image_path": "faculty_images/Dr_Nosheen_Qamar.jpg",
+        "linkedin_url": "https://pk.linkedin.com/in/nosheenqam"
+    },
+    {
+        "position": "Assistant Professor",
+        "name": "Amjad Ali",
+        "academic_info": "PhD Scholar - Computer Science, University of Engineering & Technology, Pakistan\nMS - Computer Science, University of Central Punjab, Pakistan",
+        "email": "amjad.ali@umt.edu.pk",
+        "image_url": "https://admin.umt.edu.pk/Media/UserProfile/638744331545402608540.jpg",
+        "image_path": "faculty_images/Amjad_Ali.jpg",
+        "linkedin_url": "https://pk.linkedin.com/in/dr-amjad-ali-11384030"
+    },
+    {
+        "position": "Assistant Professor",
+        "name": "Iqra Javed",
+        "academic_info": "PhD Engineering Trade, Universiti Malaya, Malaysia\nMSc Engineering Management, University of Engineering and Technology, Pakistan",
+        "email": "iqra.javed@umt.edu.pk",
+        "image_url": "https://admin.umt.edu.pk/Media/UserProfile/638744329571466833146.jpg",
+        "image_path": "faculty_images/Iqra_Javed.jpg",
+        "linkedin_url": "https://pk.linkedin.com/in/dr-iqra-javed-9880b835"
+    },
+    {
+        "position": "Assistant Professor",
+        "name": "Dr Waseem Iqbal",
+        "academic_info": "PhD - Electrical Engineering, University of Management & Technology, Pakistan\nMS - Electrical Engineering, University of Bradford, UK",
+        "email": "waseem.iqbal@umt.edu.pk",
+        "image_url": "https://admin.umt.edu.pk/Media/UserProfile/63874433108040192240.jpg",
+        "image_path": "faculty_images/Dr_Waseem_Iqbal.jpg",
+        "linkedin_url": "https://pk.linkedin.com/in/dr-waseem-iqbal-80a62226"
+    },
+    {
+        "position": "Assistant Professor",
+        "name": "Muhammad Ahsan",
+        "academic_info": "MS - Electrical Engineering, University of Southern California, USA\nBS - Electrical Engineering, University of Engineering & Technology, Pakistan",
+        "email": "muhammadahsan@umt.edu.pk",
+        "image_url": "https://admin.umt.edu.pk/Media/UserProfile/6387443312200936849.jpg",
+        "image_path": "faculty_images/Muhammad_Ahsan.jpg",
+        "linkedin_url": "https://pk.linkedin.com/in/ahsan76"
+    },
+    {
+        "position": "Assistant Professor",
+        "name": "Muhammad Shoaib",
+        "academic_info": "MS - Electrical Engineering, University of Management & Technology, Pakistan\nBS - Electrical Engineering, University of Engineering & Technology, Pakistan",
+        "email": "muhammad.shoaib@umt.edu.pk",
+        "image_url": "https://admin.umt.edu.pk/Media/UserProfile/638744330225253840525.jpg",
+        "image_path": "faculty_images/Muhammad_Shoaib.jpg",
+        "linkedin_url": "https://pk.linkedin.com/in/muhammad-shoaib-umt"
+    },
+    {
+        "position": "Assistant Professor",
+        "name": "Muhammad Nabeel",
+        "academic_info": "MS - Computer Science, Lahore University of Management Sciences, Pakistan\nBS - Computer Science, FAST National University, Pakistan",
+        "email": "muhammad.nabeel@umt.edu.pk",
+        "image_url": "https://admin.umt.edu.pk/Media/UserProfile/638747788625416310541.jpg",
+        "image_path": "faculty_images/Muhammad_Nabeel.jpg",
+        "linkedin_url": "https://pk.linkedin.com/in/muhammad-nabeel-aa61121b1"
+    },
+    {
+        "position": "Assistant Professor",
+        "name": "Nauman Ahmad",
+        "academic_info": "Lab In charge Department of Electrical Engineering\nMS - Electrical Engineering, Staffordshire University, UK\nBS - Electrical Engineering, University of Engineering & Technology, Pakistan",
+        "email": "nauman.ahmad@umt.edu.pk",
+        "image_url": "https://admin.umt.edu.pk/Media/UserProfile/638745466746694258669.jpg",
+        "image_path": "faculty_images/Nauman_Ahmad.jpg",
+        "linkedin_url": "https://pk.linkedin.com/in/nauman-ahmad-46062675"
+    },
+    {
+        "position": "Assistant Professor",
+        "name": "Dr Tayaba Anjum",
+        "academic_info": "PhD - Computer Science, University of the Punjab, Pakistan\nMS - Computer Science, University of the Punjab, Pakistan",
+        "email": "tayaba.anjum@umt.edu.pk",
+        "image_url": "https://admin.umt.edu.pk/Media/UserProfile/638747786622064637206.jpg",
+        "image_path": "faculty_images/Dr_Tayaba_Anjum.jpg",
+        "linkedin_url": "https://pk.linkedin.com/in/dr-tayaba-anjum-3051a442"
+    },
+    {
+        "position": "Assistant Professor",
+        "name": "Fasiha Ashraf",
+        "academic_info": "MS - Computer Science, University of Engineering &Technology, Pakistan\nBS Computer Science, University of Agriculture Faisalabad, Pakistan",
+        "email": "fasiha.ashraf@umt.edu.pk",
+        "image_url": "https://admin.umt.edu.pk/Media/UserProfile/638363309603271449327.jpg",
+        "image_path": "faculty_images/Fasiha_Ashraf.jpg",
+        "linkedin_url": "https://pk.linkedin.com/in/fasiha-ashraf-a613b030a"
+    },
+    {
+        "position": "Assistant Professor",
+        "name": "Dr Uzma Farooq",
+        "academic_info": "PhD Computer Science, Universiti Teknologi Malaysia, Malaysia\nMS - Computer Science, FAST National University, Pakistan",
+        "email": "uzma.farooq@umt.edu.pk",
+        "image_url": "https://admin.umt.edu.pk/Media/UserProfile/638744330779720130972.jpg",
+        "image_path": "faculty_images/Dr_Uzma_Farooq.jpg",
+        "linkedin_url": "https://pk.linkedin.com/in/dr-uzma-farooq-693702203"
+    },
+    {
+        "position": "Assistant Professor",
+        "name": "Dr Raja Noshad Jamil",
+        "academic_info": "Acting Director, Center for Educational Innovation\nHEC Approved Supervisor\nPhD - Mathematics, University of Management & Technology, Pakistan\nMPhil - Geometric Design, University of Bradford, UK",
+        "email": "noshad.jamil@umt.edu.pk",
+        "image_url": "https://admin.umt.edu.pk/Media/UserProfile/638744330419795007979.jpg",
+        "image_path": "faculty_images/Dr_Raja_Noshad_Jamil.jpg",
+        "linkedin_url": "https://pk.linkedin.com/in/raja-noshad-jamil-8a546828"
+    },
+    {
+        "position": "Assistant Professor",
+        "name": "Dr Syed Khawar Nadeem Kirmani",
+        "academic_info": "PhD Computer Science, University Teknologi, Malaysia\nM Phil Computer Graphics, Bradford University, UK",
+        "email": "khawar.kirmani@umt.edu.pk",
+        "image_url": "https://admin.umt.edu.pk/Media/UserProfile/638745466897946412794.jpg",
+        "image_path": "faculty_images/Dr_Syed_Khawar_Nadeem_Kirmani.jpg",
+        "linkedin_url": "https://sst.umt.edu.pk/cs/Academics/Faculty/Dr-Syed-Khawar-Nadeem-Kirmani.aspx"
+    },
+    {
+        "position": "Assistant Professor",
+        "name": "Arifah Azhar",
+        "academic_info": "MS - Computer Science, FAST National University, Pakistan\nBS - Computer Science, FAST National University, Pakistan",
+        "email": "arifah.azhar@umt.edu.pk",
+        "image_url": "https://admin.umt.edu.pk/Media/UserProfile/638744328615904300590.jpg",
+        "image_path": "faculty_images/Arifah_Azhar.jpg",
+        "linkedin_url": "https://pk.linkedin.com/in/arifah-azhar-118b4218"
+    },
+    {
+        "position": "Assistant Dean Administration",
+        "name": "Dr Arfan Arshad",
+        "academic_info": "Assistant Professor\nPhD Information Technology, International Islamic University, Malaysia\nMS Computer Science, University of Punjab, Pakistan",
+        "email": "arfan.arshad@umt.edu.pk",
+        "image_url": "https://admin.umt.edu.pk/Media/UserProfile/638744415431692041169.jpg",
+        "image_path": "faculty_images/Dr_Arfan_Arshad.jpg",
+        "linkedin_url": "https://pk.linkedin.com/in/dr-arfan-arshad"
+    },
+    {
+        "position": "Program Head AI",
+        "name": "Dr Shaista Habib",
+        "academic_info": "Assistant Professor\nHEC Approved Supervisor\nPhD - Computer Science, University of the Punjab, Pakistan\nMS - Computer Science, Government College University, Pakistan",
+        "email": "shaista.habib@umt.edu.pk",
+        "image_url": "https://admin.umt.edu.pk/Media/UserProfile/638744332343147378314.jpg",
+        "image_path": "faculty_images/Dr_Shaista_Habib.jpg",
+        "linkedin_url": "https://pk.linkedin.com/in/dr-shaista-habib-146626202"
+    },
+    {
+        "position": "Director Final Year Projects - Software Engineering",
+        "name": "Muhammad Asif Subhani",
+        "academic_info": "Assistant Professor\nMS - Computer Science, Lahore University of Management Sciences, Pakistan\nMS - Total Quality Management, University of the Punjab, Pakistan",
+        "email": "asif.subhani@umt.edu.pk",
+        "image_url": "https://admin.umt.edu.pk/Media/UserProfile/63874546656027223127.jpg",
+        "image_path": "faculty_images/Muhammad_Asif_Subhani.jpg",
+        "linkedin_url": "https://pk.linkedin.com/in/muhammad-asif-subhani-52290a32"
+    },
+    {
+        "position": "Lecturer",
+        "name": "Sehrish Munawar",
+        "academic_info": "MS Computer Science, University of Agriculture, Pakistan\nMSc Computer Science, University of Agriculture, Pakistan",
+        "email": "sehrish.munawar@umt.edu.pk",
+        "image_url": "https://admin.umt.edu.pk/Media/UserProfile/638744332824862625486.jpg",
+        "image_path": "faculty_images/Sehrish_Munawar.jpg",
+        "linkedin_url": "https://pk.linkedin.com/in/sehrish-munawar-68b072267"
+    },
+    {
+        "position": "Lecturer",
+        "name": "Mariha Asad",
+        "academic_info": "M Phil Computer Science, PU - Punjab University Lahore, Pakistan\nBS Computer Science, PU - Punjab University Lahore, Pakistan",
+        "email": "mariha.asad@umt.edu.pk",
+        "image_url": "https://admin.umt.edu.pk/Media/UserProfile/638744332981200561120.jpg",
+        "image_path": "faculty_images/Mariha_Asad.jpg",
+        "linkedin_url": "https://pk.linkedin.com/in/mariha-asad-48a57a23b"
+    },
+    {
+        "position": "Lecturer",
+        "name": "Abdullah Miraj",
+        "academic_info": "MPhil Computer Science, PU - Punjab University Lahore, Pakistan\nBS Software Engineering, PU - Punjab University Lahore, Pakistan",
+        "email": "",
+        "image_url": "https://admin.umt.edu.pk/Media/UserProfile/637411331644310790431.jpg",
+        "image_path": "faculty_images/Abdullah_Miraj.jpg",
+        "linkedin_url": "https://pk.linkedin.com/in/abdullah-miraj-83162792"
+    },
+    {
+        "position": "Lecturer",
+        "name": "Noaman Saleem",
+        "academic_info": "MS Computer Science, NUCES, FAST, Lahore, Pakistan",
+        "email": "noaman.saleem@umt.edu.pk",
+        "image_url": "https://admin.umt.edu.pk/Media/UserProfile/63870640890089565689.jpg",
+        "image_path": "faculty_images/Noaman_Saleem.jpg",
+        "linkedin_url": "https://pk.linkedin.com/in/noaman-saleem-934aa338"
+    },
+    {
+        "position": "Lecturer",
+        "name": "Naveed Husain",
+        "academic_info": "MS Information Security, NUST, Pakistan\nBS Hons Information Technology, University of Sargodha, Pakistan",
+        "email": "naveed.husain@umt.edu.pk",
+        "image_url": "https://admin.umt.edu.pk/Media/UserProfile/638706410686182099618.jpg",
+        "image_path": "faculty_images/Naveed_Husain.jpg",
+        "linkedin_url": "https://pk.linkedin.com/in/naveed-hussain-268b1b2bb"
+    },
+    {
+        "position": "Lecturer",
+        "name": "Muhamad Owais Khan",
+        "academic_info": "MS Computer Science, Bahria University, Pakistan",
+        "email": "owais.khan@umt.edu.pk",
+        "image_url": "https://admin.umt.edu.pk/Media/UserProfile/6387115742600628616.jpg",
+        "image_path": "faculty_images/Muhamad_Owais_Khan.jpg",
+        "linkedin_url": "https://www.linkedin.com/in/muhammad-awais-khan-57112b1a"
+    },
+    {
+        "position": "Lecturer",
+        "name": "Mahmood Hussain",
+        "academic_info": "MS Computer Science, COMSATS University, Pakistan\nMCS, University of Lahore, Pakistan",
+        "email": "mahmood.hussain@umt.edu.pk",
+        "image_url": "https://admin.umt.edu.pk/Media/UserProfile/638744333276463785646.jpg",
+        "image_path": "faculty_images/Mahmood_Hussain.jpg",
+        "linkedin_url": "https://pk.linkedin.com/in/md1818"
+    },
+    {
+        "position": "Lecturer",
+        "name": "Rida Ayesha",
+        "academic_info": "MS Computer Science, NED-University of Engineering and Technology, Karachi, Pakistan\nBS Software Engineering, University of Karachi, Pakistan",
+        "email": "rida.ayesha@umt.edu.pk",
+        "image_url": "https://admin.umt.edu.pk/Media/UserProfile/638706410155185726518.jpg",
+        "image_path": "faculty_images/Rida_Ayesha.jpg",
+        "linkedin_url": "https://www.linkedin.com/in/rida-ayesha"
+    },
+    {
+        "position": "Lecturer",
+        "name": "Farrukh Liaquat",
+        "academic_info": "MS Computer Science, COMSATS University, Pakistan",
+        "email": "farrukh.liaquat@umt.edu.pk",
+        "image_url": "https://admin.umt.edu.pk/Media/UserProfile/638706410422299707229.jpg",
+        "image_path": "faculty_images/Farrukh_Liaquat.jpg",
+        "linkedin_url": "https://www.linkedin.com/pub/dir/farrukh/liaquat"
+    },
+    {
+        "position": "Lecturer",
+        "name": "Raeena Tauqir",
+        "academic_info": "",
+        "email": "raeena.tauqir@umt.edu.pk",
+        "image_url": "https://admin.umt.edu.pk/Media/UserProfile/638744333557861062786.jpg",
+        "image_path": "faculty_images/Raeena_Tauqir.jpg",
+        "linkedin_url": "https://pk.linkedin.com/in/raeena-tauqir-5ba75586"
+    },
+    {
+        "position": "Lecturer",
+        "name": "Nawera Latif",
+        "academic_info": "MS Computer Science, UMT Lahore, Pakistan\nMSc Computer Science, University of Lahore (UOL), Pakistan",
+        "email": "nawera.latif@umt.edu.pk",
+        "image_url": "https://admin.umt.edu.pk/Media/UserProfile/638078204035897850589.jpg",
+        "image_path": "faculty_images/Nawera_Latif.jpg",
+        "linkedin_url": "https://pk.linkedin.com/in/nawera-latif-29aab142"
+    },
+    {
+        "position": "Lecturer",
+        "name": "Muhammad Nazam Maqbool",
+        "academic_info": "MS Computer Science, University of Engineering and Technology (UET), Pakistan\nMSc Computer Science, University of Agriculture Faisalabad (UAF), Pakistan",
+        "email": "nazam.maqbool@umt.edu.pk",
+        "image_url": "https://admin.umt.edu.pk/Media/UserProfile/638744335126080916608.jpg",
+        "image_path": "faculty_images/Muhammad_Nazam_Maqbool.jpg",
+        "linkedin_url": "https://pk.linkedin.com/in/nazammaqboolandai"
+    },
+    {
+        "position": "Lecturer",
+        "name": "Iqra Khalid",
+        "academic_info": "MS Computer Science, COMSATS University Islamabad (CUI), Pakistan",
+        "email": "iqra.khalid@umt.edu.pk",
+        "image_url": "https://admin.umt.edu.pk/Media/UserProfile/unknown.jpg",
+        "image_path": "faculty_images/Iqra_Khalid.jpg",
+        "linkedin_url": "https://pk.linkedin.com/in/iqra-khalid-2176ba121"
+    },
+    {
+        "position": "Lecturer",
+        "name": "Mariya Tauqeer",
+        "academic_info": "MS Software Engineering, National University of Science & Technology (NUST)",
+        "email": "mariya.tauqeer@umt.edu.pk",
+        "image_url": "https://admin.umt.edu.pk/Media/UserProfile/63874778802014598014.jpg",
+        "image_path": "faculty_images/Mariya_Tauqeer.jpg",
+        "linkedin_url": "https://pk.linkedin.com/in/mariya-tauqeer-0962a2149"
+    },
+    {
+        "position": "Lecturer",
+        "name": "Arslan Anjum",
+        "academic_info": "MS Computer Science, University of Lahore, Pakistan\nBS Computer Science, Minhaj University, Pakistan",
+        "email": "arslan.anjum@umt.edu.pk",
+        "image_url": "https://admin.umt.edu.pk/Media/UserProfile/638181937805095973509.jpg",
+        "image_path": "faculty_images/Arslan_Anjum.jpg",
+        "linkedin_url": "https://pk.linkedin.com/in/arslan-anjum-474b3a92"
+    },
+    {
+        "position": "Lecturer",
+        "name": "Mian Ahmed Shafiq",
+        "academic_info": "MS Computer Science, COMSATS University, Pakistan",
+        "email": "ahmed.shafiq@umt.edu.pk",
+        "image_url": "https://admin.umt.edu.pk/Media/UserProfile/6387443339500781977.jpg",
+        "image_path": "faculty_images/Mian_Ahmed_Shafiq.jpg",
+        "linkedin_url": "https://pk.linkedin.com/in/mianahmedshafiq"
+    },
+    {
+        "position": "Lecturer",
+        "name": "Zarnab Azam",
+        "academic_info": "MS Computer Science, Information Technology University (ITU), Pakistan",
+        "email": "zarnab.azam@umt.edu.pk",
+        "image_url": "https://admin.umt.edu.pk/Media/UserProfile/638706411641921539192.jpg",
+        "image_path": "faculty_images/Zarnab_Azam.jpg",
+        "linkedin_url": "https://pk.linkedin.com/in/zarnab-azam-00582b117"
+    },
+    {
+        "position": "Lecturer",
+        "name": "Muhammad Awais Ali",
+        "academic_info": "MS Computer Science, COMSATS University, Pakistan",
+        "email": "awaisali@umt.edu.pk",
+        "image_url": "https://admin.umt.edu.pk/Media/UserProfile/638706411767658977765.jpg",
+        "image_path": "faculty_images/Muhammad_Awais_Ali.jpg",
+        "linkedin_url": "https://pk.linkedin.com/in/muhammad-awais-ali-831068297"
+    },
+    {
+        "position": "Lecturer",
+        "name": "Hassaan Ahmad",
+        "academic_info": "MS Computer Science, University of Lahore (UOL), Pakistan",
+        "email": "hassaan.ahmad@umt.edu.pk",
+        "image_url": "https://admin.umt.edu.pk/Media/UserProfile/638744334285056165505.jpg",
+        "image_path": "faculty_images/Hassaan_Ahmad.jpg",
+        "linkedin_url": "https://pk.linkedin.com/in/hassaan-ahmad-32432912a"
+    },
+    {
+        "position": "Lecturer",
+        "name": "Hafiz Noman Sarwar",
+        "academic_info": "MS Computer Science, Bahria University",
+        "email": "noman.sarwar@umt.edu.pk",
+        "image_url": "https://admin.umt.edu.pk/Media/UserProfile/638744334636339358633.jpg",
+        "image_path": "faculty_images/Hafiz_Noman_Sarwar.jpg",
+        "linkedin_url": "https://pk.linkedin.com/in/hafiz-noman-sarwar-279a99252"
+    },
+    {
+        "position": "Lecturer",
+        "name": "Nitasha Arooj",
+        "academic_info": "MS Computer Science, University of Engineering and Technology (UET), Pakistan",
+        "email": "nitasha.janjua@umt.edu.pk",
+        "image_url": "https://admin.umt.edu.pk/Media/UserProfile/638706412282924286292.jpg",
+        "image_path": "faculty_images/Nitasha_Arooj.jpg",
+        "linkedin_url": "https://pk.linkedin.com/in/nitasha-arooj-janjua-5026257a"
+    },
+    {
+        "position": "Lecturer",
+        "name": "Shoaib Khan",
+        "academic_info": "MS Computer Science, Bahria University, Pakistan\nBS Hons Computer Science, FAST National University, Pakisan",
+        "email": "shoaibkhan@umt.edu.pk",
+        "image_url": "https://admin.umt.edu.pk/Media/UserProfile/638744334807914575791.jpg",
+        "image_path": "faculty_images/Shoaib_Khan.jpg",
+        "linkedin_url": "https://pk.linkedin.com/in/shoaib-khan-3b39365a"
+    },
+    {
+        "position": "Lecturer",
+        "name": "Abdul Jamil",
+        "academic_info": "MS Computer Science, Lahore University of Management Sciences (LUMS), Pakistan",
+        "email": "abdul.Jamil@umt.edu.pk",
+        "image_url": "https://admin.umt.edu.pk/Media/UserProfile/638744334468950877895.jpg",
+        "image_path": "faculty_images/Abdul_Jamil.jpg",
+        "linkedin_url": "https://pk.linkedin.com/in/qaziabduljamil"
+    },
+    {
+        "position": "Lecturer",
+        "name": "Muhammad Ehsan",
+        "academic_info": "MS Computer Science, COMSATS University, Pakistan",
+        "email": "muhammad.ehsan@umt.edu.pk",
+        "image_url": "https://admin.umt.edu.pk/Media/UserProfile/638747788297872601787.jpg",
+        "image_path": "faculty_images/Muhammad_Ehsan.jpg",
+        "linkedin_url": "https://pk.linkedin.com/in/ahsan76"
+    },
+    {
+        "position": "Lecturer",
+        "name": "Bilal Arif",
+        "academic_info": "MS Software Engineering, Superior University, Pakistan",
+        "email": "bilalarif@umt.edu.pk",
+        "image_url": "https://admin.umt.edu.pk/Media/UserProfile/638744334938893314889.jpg",
+        "image_path": "faculty_images/Bilal_Arif.jpg",
+        "linkedin_url": "https://pk.linkedin.com/in/bilal-arif-1560159b"
+    },
+    {
+        "position": "Lecturer",
+        "name": "Waqar Ashiq",
+        "academic_info": "MS Computer Science, COMSATS University",
+        "email": "waqar.ashiq@umt.edu.pk",
+        "image_url": "https://admin.umt.edu.pk/Media/UserProfile/6387454671900868388.jpg",
+        "image_path": "faculty_images/Waqar_Ashiq.jpg",
+        "linkedin_url": "https://pk.linkedin.com/in/waqarashiq"
+    },
+    {
+        "position": "Lecturer",
+        "name": "Halima Jamil",
+        "academic_info": "MS Software Engineering, UMT, Lahore",
+        "email": "halima.jamil@umt.edu.pk",
+        "image_url": "https://admin.umt.edu.pk/Media/UserProfile/638747787418335692833.jpg",
+        "image_path": "faculty_images/Halima_Jamil.jpg",
+        "linkedin_url": "https://pk.linkedin.com/in/halima-jamil-453282109"
+    },
+    {
+        "position": "Lecturer",
+        "name": "Raybal Akhtar",
+        "academic_info": "MS Computer Science, Government College University (GCU), Pakistan",
+        "email": "raybal.akhtar@umt.edu.pk",
+        "image_url": "https://admin.umt.edu.pk/Media/UserProfile/638706413214303125430.jpg",
+        "image_path": "faculty_images/Raybal_Akhtar.jpg",
+        "linkedin_url": "https://pk.linkedin.com/in/raybal"
+    },
+    {
+        "position": "Lecturer",
+        "name": "Afnan Iftikhar",
+        "academic_info": "M Phil Computer Science, PU - Punjab University Lahore, Pakistan",
+        "email": "afnaniftikhar@umt.edu.pk",
+        "image_url": "https://admin.umt.edu.pk/Media/UserProfile/638744335396505948650.jpg",
+        "image_path": "faculty_images/Afnan_Iftikhar.jpg",
+        "linkedin_url": "https://pk.linkedin.com/in/afnan-iftikhar-b7943988"
+    },
+    {
+        "position": "Lecturer",
+        "name": "Mobashirah Nasir",
+        "academic_info": "Masters of Science in Information Security, COMSATS University, Pakistan",
+        "email": "mobishirah.nasir@umt.edu.pk",
+        "image_url": "https://admin.umt.edu.pk/Media/UserProfile/638744335264941674494.jpg",
+        "image_path": "faculty_images/Mobashirah_Nasir.jpg",
+        "linkedin_url": "https://pk.linkedin.com/in/mobashirah-nasir-a992a4105"
+    },
+    {
+        "position": "Lecturer",
+        "name": "Hafiz Ahsan Arshad",
+        "academic_info": "MS Computer Science, University of Lahore, Pakistan",
+        "email": "ahsan.arshad@umt.edu.pk",
+        "image_url": "https://admin.umt.edu.pk/Media/UserProfile/638711577486751674675.jpg",
+        "image_path": "faculty_images/Hafiz_Ahsan_Arshad.jpg",
+        "linkedin_url": "https://pk.linkedin.com/in/ahsan-arshad-8068a1116"
+    },
+    {
+        "position": "Lecturer",
+        "name": "Ghulam Murtaza",
+        "academic_info": "MS Computer Science, University of Engineering and Technology (UET), Pakistan",
+        "email": "ghulam-murtaza@umt.edu.pk",
+        "image_url": "https://admin.umt.edu.pk/Media/UserProfile/638747787175922479592.jpg",
+        "image_path": "faculty_images/Ghulam_Murtaza.jpg",
+        "linkedin_url": "https://pk.linkedin.com/in/gmurtazaqasim"
+    },
+    {
+        "position": "Lecturer",
+        "name": "Shahbaz Qadeer",
+        "academic_info": "MS Computer Science, University of Engineering and Technology (UET)",
+        "email": "shahbaz.qadeer@umt.edu.pk",
+        "image_url": "https://admin.umt.edu.pk/Media/UserProfile/638706413982512113251.jpg",
+        "image_path": "faculty_images/Shahbaz_Qadeer.jpg",
+        "linkedin_url": "https://pk.linkedin.com/in/shahbaz-qadeer-rajput"
+    },
+    {
+        "position": "Lecturer",
+        "name": "Ayesha Yasin",
+        "academic_info": "MS Computer Science, UCP, Lahore, Pakistan",
+        "email": "ayesha.yasin@umt.edu.pk",
+        "image_url": "https://admin.umt.edu.pk/Media/UserProfile/638706414676782744678.jpg",
+        "image_path": "faculty_images/Ayesha_Yasin.jpg",
+        "linkedin_url": "https://pk.linkedin.com/in/ayesha-yasin-42007573"
+    },
+    {
+        "position": "Lecturer",
+        "name": "Sheikh Babar Hameed",
+        "academic_info": "MSc Telecom and Computer Networks, University of Engineering and Technology (UET), Pakistan",
+        "email": "babar.hameed@umt.edu.pk",
+        "image_url": "https://admin.umt.edu.pk/Media/UserProfile/638744335842112353211.jpg",
+        "image_path": "faculty_images/Sheikh_Babar_Hameed.jpg",
+        "linkedin_url": "https://pk.linkedin.com/in/sheikh-babar"
+    },
+    {
+        "position": "Lecturer",
+        "name": "Shanza Zaman",
+        "academic_info": "MS Computer Science, UCP, Lahore",
+        "email": "shanza.zaman@umt.edu.pk",
+        "image_url": "https://admin.umt.edu.pk/Media/UserProfile/638744335965318008531.jpg",
+        "image_path": "faculty_images/Shanza_Zaman.jpg",
+        "linkedin_url": "https://pk.linkedin.com/in/shanza-zaman-9a9081111"
+    },
+    {
+        "position": "Lecturer",
+        "name": "Khadija Naveed",
+        "academic_info": "MSc Computer Engineering, University of Lahore, Pakistan\nBSc Computer Science and Engineering, University of Engineering and Technology, Pakistan",
+        "email": "khadija.naveed@umt.edu.pk",
+        "image_url": "https://admin.umt.edu.pk/Media/UserProfile/63870641493096067496.jpg",
+        "image_path": "faculty_images/Khadija_Naveed.jpg",
+        "linkedin_url": "https://pk.linkedin.com/in/khadija-naveed-a14451254"
+    },
+    {
+        "position": "Lecturer",
+        "name": "Nosheen Manzoor",
+        "academic_info": "MSIS- Information Security, NUST, Pakistan\nMCS- Computer Science, Arid Agriculture University, Pakistan",
+        "email": "nosheen.manzoor@umt.edu.pk",
+        "image_url": "https://admin.umt.edu.pk/Media/UserProfile/63874433246046345046.jpg",
+        "image_path": "faculty_images/Nosheen_Manzoor.jpg",
+        "linkedin_url": "https://pk.linkedin.com/in/nosheen-manzoor-951686b6"
+    },
+    {
+        "position": "Lecturer",
+        "name": "Aqsa Afzal",
+        "academic_info": "MS Computer Science, Lahore College Women University, Pakistan\nBS Computer Science, Lahore College Women University, Pakistan",
+        "email": "aqsa.afzal@umt.edu.pk",
+        "image_url": "https://admin.umt.edu.pk/Media/UserProfile/638744336588745642874.jpg",
+        "image_path": "faculty_images/Aqsa_Afzal.jpg",
+        "linkedin_url": "https://pk.linkedin.com/in/aqsa-afzal"
+    },
+    {
+        "position": "Lecturer",
+        "name": "Maham Saleem",
+        "academic_info": "BSc Software Engineering, COMSATS University, Pakistan",
+        "email": "maham.saleem@umt.edu.pk",
+        "image_url": "https://admin.umt.edu.pk/Media/UserProfile/638747928412140272214.jpg",
+        "image_path": "faculty_images/Maham_Saleem.jpg",
+        "linkedin_url": "https://pk.linkedin.com/in/mahamsaleeem"
+    },
+    {
+        "position": "Lecturer",
+        "name": "Hafiz Abdul Rehman",
+        "academic_info": "MS Computer Science, COMSATS, Pakistan\nBS Information Technology, University of Education, Pakistan",
+        "email": "hafiz.rehman@umt.edu.pk",
+        "image_url": "https://admin.umt.edu.pk/Media/UserProfile/638706417193502214350.jpg",
+        "image_path": "faculty_images/Hafiz_Abdul_Rehman.jpg",
+        "linkedin_url": "https://pk.linkedin.com/in/ha-rehman"
+    },
+    {
+        "position": "Lecturer",
+        "name": "Junaid Abdullah Mansoor",
+        "academic_info": "MS Computer Science, University of Punjab, Pakistan\nBS Computer Science, University of Sargodha, Pakistan",
+        "email": "junaid.mansoor@umt.edu.pk",
+        "image_url": "https://admin.umt.edu.pk/Media/UserProfile/63874433725076182176.jpg",
+        "image_path": "faculty_images/Junaid_Abdullah_Mansoor.jpg",
+        "linkedin_url": "https://pk.linkedin.com/in/junaid-abdullah-mansoor-7346a022a"
+    },
+    {
+        "position": "Lecturer",
+        "name": "Amiq Inayat",
+        "academic_info": "MS Computer Science, COMSATS, Pakistan\nBS Computer science, University of Management and Technology, Pakistan",
+        "email": "amiq.inayat@umt.edu.pk",
+        "image_url": "https://admin.umt.edu.pk/Media/UserProfile/638745468198406193840.jpg",
+        "image_path": "faculty_images/Amiq_Inayat.jpg",
+        "linkedin_url": "https://pk.linkedin.com/in/amiq-inayat-7ab9b0164"
+    },
+    {
+        "position": "Lecturer",
+        "name": "Rabia Qasim",
+        "academic_info": "MS Computer Science, Air University Islamabad, Pakistan\nBS Computer Science, COMSATS, Pakistan",
+        "email": "rabia.qasim@umt.edu.pk",
+        "image_url": "https://admin.umt.edu.pk/Media/UserProfile/638744338363026536302.jpg",
+        "image_path": "faculty_images/Rabia_Qasim.jpg",
+        "linkedin_url": "https://pk.linkedin.com/in/rabia-qasim-758b12208"
+    },
+    {
+        "position": "Lecturer",
+        "name": "Muzzamil Mustafa",
+        "academic_info": "MS Computer Science, National College Of Business Administration And Economics, Pakistan\nBS Computer Science, National College Of Business Administration And Economics, Pakistan",
+        "email": "muzzamil.mustafa@umt.edu.pk",
+        "image_url": "https://admin.umt.edu.pk/Media/UserProfile/63874778902064289964.jpg",
+        "image_path": "faculty_images/Muzzamil_Mustafa.jpg",
+        "linkedin_url": "https://pk.linkedin.com/in/muzzamil-mustafa-780954185"
+    },
+    {
+        "position": "Lecturer",
+        "name": "Sheeza Zaheer",
+        "academic_info": "MPhil Computer Science, University of Punjab, Pakistan\nBS Computer Science, COMSATS, Pakistan",
+        "email": "sheeza.zaheer@umt.edu.pk",
+        "image_url": "https://admin.umt.edu.pk/Media/UserProfile/638744338482803369280.jpg",
+        "image_path": "faculty_images/Sheeza_Zaheer.jpg",
+        "linkedin_url": "https://www.linkedin.com/pub/dir/Sheeza/Zaheer"
+    },
+    {
+        "position": "Lecturer",
+        "name": "Muhammad Rumaan",
+        "academic_info": "MS Computer Science, The Superior Collage Lahore\nBS Communication Engineering, Hajvery University Lahore, Pakistan",
+        "email": "muhammad.rumaan@umt.edu.pk",
+        "image_url": "https://admin.umt.edu.pk/Media/UserProfile/638711579533784153378.jpg",
+        "image_path": "faculty_images/Muhammad_Rumaan.jpg",
+        "linkedin_url": "https://pk.linkedin.com/in/muhammad-romaan-443714164"
+    },
+    {
+        "position": "Lecturer",
+        "name": "Muhammad Tahir",
+        "academic_info": "MS Information Technology, National University Of Science and Technology, Pakistan\nBS Inf, University of Punjab, Pakistan",
+        "email": "muhammadtahir@umt.edu.pk",
+        "image_url": "https://admin.umt.edu.pk/Media/UserProfile/638747788877444154744.jpg",
+        "image_path": "faculty_images/Muhammad_Tahir.jpg",
+        "linkedin_url": "https://pk.linkedin.com/in/muhammad-tahir-mushtaq-9a2ba031a"
+    },
+    {
+        "position": "Lecturer",
+        "name": "Kinza Sardar",
+        "academic_info": "MS Software Engineering, University of Management and Technology, Pakistan\nBachelor of Business Information Technology, University of Punjab, Pakistan",
+        "email": "kinza.sardar@umt.edu.pk",
+        "image_url": "https://admin.umt.edu.pk/Media/UserProfile/638744339071127760112.jpg",
+        "image_path": "faculty_images/Kinza_Sardar.jpg",
+        "linkedin_url": "https://www.linkedin.com/pub/dir/kinza/sardar"
+    },
+    {
+        "position": "Lecturer",
+        "name": "Noreen Ashraf",
+        "academic_info": "MS Computer Science, Government College University, Pakistan\nBS Computer Science, Lahore College for women University Lahore, Pakistan",
+        "email": "noreen.ashraf@umt.edu.pk",
+        "image_url": "https://admin.umt.edu.pk/Media/UserProfile/638747789407445592744.jpg",
+        "image_path": "faculty_images/Noreen_Ashraf.jpg",
+        "linkedin_url": "https://sst.umt.edu.pk/ai/Faculty-and-Staff.aspx"
+    },
+    {
+        "position": "Lecturer",
+        "name": "Usama Ahmed",
+        "academic_info": "MS Computer Science, Riphah International University, Pakistan\nBS Computer Science, University of Sargodha, Pakistan",
+        "email": "usama.ahmed@umt.edu.pk",
+        "image_url": "https://admin.umt.edu.pk/Media/UserProfile/638706591364185051418.jpg",
+        "image_path": "faculty_images/Usama_Ahmed.jpg",
+        "linkedin_url": "https://pk.linkedin.com/in/usama-ahmed-smm"
+    },
+    {
+        "position": "Lecturer",
+        "name": "Muhammad Ali Haider",
+        "academic_info": "MS Software Engineering, University of Agriculture Faisalabad, Pakistan\nBS Software Engineering, Riphah International University, Pakistan",
+        "email": "alihaider@umt.edu.pk",
+        "image_url": "https://admin.umt.edu.pk/Media/UserProfile/638706591218631516863.jpg",
+        "image_path": "faculty_images/Muhammad_Ali_Haider.jpg",
+        "linkedin_url": "https://pk.linkedin.com/in/muhammad-ali-haider-a7553582"
+    },
+    {
+        "position": "Lecturer",
+        "name": "Laila Zahra",
+        "academic_info": "MS Information Technology, University of Management and Technology, Pakistan\nMSc Information Technology, University of Sargodha, Pakistan",
+        "email": "laila.zahra@umt.edu.pk",
+        "image_url": "https://admin.umt.edu.pk/Media/UserProfile/63838073364088392688.jpg",
+        "image_path": "faculty_images/Laila_Zahra.jpg",
+        "linkedin_url": "https://pk.linkedin.com/in/laila-zahra-73350b173"
+    },
+    {
+        "position": "Lecturer",
+        "name": "Muhammad Rizwan Jamil",
+        "academic_info": "MS Computer Science, University of Central Punjab, Pakistan\nBS Computer Science, COMSATS University Islamabad, Pakistan",
+        "email": "rizwan.jamil@umt.edu.pk",
+        "image_url": "https://admin.umt.edu.pk/Media/UserProfile/638706592604404493440.jpg",
+        "image_path": "faculty_images/Muhammad_Rizwan_Jamil.jpg",
+        "linkedin_url": "https://pk.linkedin.com/in/mrrizwanjamil"
+    },
+    {
+        "position": "Lecturer",
+        "name": "Iqra Ashraf",
+        "academic_info": "MPhil Computer Science, Bahria University, Pakistan\nBS Information Technology, Bahria University, Pakistan",
+        "email": "iqra.ashraf@umt.edu.pk",
+        "image_url": "https://admin.umt.edu.pk/Media/UserProfile/638711579686761336676.jpg",
+        "image_path": "faculty_images/Iqra_Ashraf.jpg",
+        "linkedin_url": "https://pk.linkedin.com/in/iqra-ashraf-365508212"
+    },
+    {
+        "position": "Lecturer",
+        "name": "Jawairia Rasheed",
+        "academic_info": "MS Computer Software Engineering, National University Of Science and Technology, Pakistan\nMaster of Computer Science, Fatima Jinnah Women University, Pakistan",
+        "email": "jawairia.rasheed@umt.edu.pk",
+        "image_url": "https://admin.umt.edu.pk/Media/UserProfile/638745467769480523948.jpg",
+        "image_path": "faculty_images/Jawairia_Rasheed.jpg",
+        "linkedin_url": "https://pk.linkedin.com/in/javeria-rasheed-125bb9214"
+    },
+    {
+        "position": "Lecturer",
+        "name": "Mehwish Afshan",
+        "academic_info": "MPhil Computer Science, University of Punjab, Pakistan\nBS Information Technology, University of Punjab, Pakistan",
+        "email": "mehwish.afshan@umt.edu.pk",
+        "image_url": "https://admin.umt.edu.pk/Media/UserProfile/63874778816040872440.jpg",
+        "image_path": "faculty_images/Mehwish_Afshan.jpg",
+        "linkedin_url": "https://pk.linkedin.com/in/mehwish-afshan-6409b527"
+    },
+    {
+        "position": "Lecturer",
+        "name": "Mutahher Mahmood",
+        "academic_info": "MS Computer Science, National University of Computer & Emerging Sciences (FAST-NU), Pakistan\nBS Computer Science, Government College University, Faisalabad, Pakistan",
+        "email": "mutahher.mahmood@umt.edu.pk",
+        "image_url": "https://admin.umt.edu.pk/Media/UserProfile/638744339803281877328.jpg",
+        "image_path": "faculty_images/Mutahher_Mahmood.jpg",
+        "linkedin_url": "https://pk.linkedin.com/in/mutahherr"
+    },
+    {
+        "position": "Lecturer",
+        "name": "Hafsa Rafique",
+        "academic_info": "MPhil Electrical Engineering, Government College University, Pakistan\nBS Electrical Engineering, University of Management and Technology, Pakistan",
+        "email": "hafsa.rafique@umt.edu.pk",
+        "image_url": "https://admin.umt.edu.pk/Media/UserProfile/638744339938268795826.jpg",
+        "image_path": "faculty_images/Hafsa_Rafique.jpg",
+        "linkedin_url": "https://pk.linkedin.com/in/hafsa-rafiq-654067320"
+    },
+    {
+        "position": "Lecturer",
+        "name": "Hafsa Riasat",
+        "academic_info": "MS Software Engineering, Superior University, Pakistan\nBS Software Engineering, Virtual University, Pakistan",
+        "email": "hafsa.riasat@umt.edu.pk",
+        "image_url": "https://admin.umt.edu.pk/Media/UserProfile/638744340172047337204.jpg",
+        "image_path": "faculty_images/Hafsa_Riasat.jpg",
+        "linkedin_url": "https://sst.umt.edu.pk/Faculty.aspx"
+    },
+    {
+        "position": "Lecturer",
+        "name": "Hashir Hasnain Asghar",
+        "academic_info": "MS Computer Science, Islamia University of Bahawalpur, Pakistan\nBS Computer Science, Islamia University of Bahawalpur, Pakistan",
+        "email": "Hashir.asghar@umt.edu.pk",
+        "image_url": "https://admin.umt.edu.pk/Media/UserProfile/638747787544164864416.jpg",
+        "image_path": "faculty_images/Hashir_Hasnain_Asghar.jpg",
+        "linkedin_url": "https://pk.linkedin.com/in/hashirhasnain"
+    },
+    {
+        "position": "Lecturer",
+        "name": "Shehla Afzal",
+        "academic_info": "MS Computer Science, University of Agriculture Faisalabad, Pakistan\nBS Software Engineering, Government College University, Faisalabad, Pakistan",
+        "email": "shehla.afzal@umt.edu.pk",
+        "image_url": "https://admin.umt.edu.pk/Media/UserProfile/638744340446397034639.jpg",
+        "image_path": "faculty_images/Shehla_Afzal.jpg",
+        "linkedin_url": "https://sst.umt.edu.pk/Faculty.aspx"
+    },
+    {
+        "position": "Lecturer",
+        "name": "Muhammad Adeel",
+        "academic_info": "MS Computer Science, National University of Computer & Emerging Sciences (FAST-NU), Pakistan\nBS Computer Science, COMSATS University, Pakistan",
+        "email": "muhammad.adeel@umt.edu.pk",
+        "image_url": "https://admin.umt.edu.pk/Media/UserProfile/638706594218249446824.jpg",
+        "image_path": "faculty_images/Muhammad_Adeel.jpg",
+        "linkedin_url": "https://pk.linkedin.com/in/muhammad-adeel-84120231a"
+    },
+    {
+        "position": "Lecturer",
+        "name": "Fatima Shehzad",
+        "academic_info": "MPhil Computer Science, Punjab University, Pakistan\nBS Computer Science, Lahore College for women University, Pakistan",
+        "email": "fatimashahzad@umt.edu.pk",
+        "image_url": "https://admin.umt.edu.pk/Media/UserProfile/638747786909915789991.jpg",
+        "image_path": "faculty_images/Fatima_Shehzad.jpg",
+        "linkedin_url": "https://www.linkedin.com/pub/dir/fatima/shehzad"
+    },
+    {
+        "position": "Lecturer",
+        "name": "Nafeesa Yousaf",
+        "academic_info": "MS Computer Science, Lahore College Women University, Pakistan\nBS Computer Science, Lahore College for Women University, Pakistan",
+        "email": "nafeesa.yousaf@umt.edu.pk",
+        "image_url": "https://admin.umt.edu.pk/Media/UserProfile/638744340297208610720.jpg",
+        "image_path": "faculty_images/Nafeesa_Yousaf.jpg",
+        "linkedin_url": "https://pk.linkedin.com/in/nafeesa-yousaf"
+    },
+    {
+        "position": "Lecturer",
+        "name": "Usman Ali",
+        "academic_info": "MS Software Engineering, University of Management and Technology, Pakistan\nBS Software Engineering, University of Management and Technology, Pakistan",
+        "email": "usman_ali@umt.edu.pk",
+        "image_url": "https://admin.umt.edu.pk/Media/UserProfile/638744340913785718378.jpg",
+        "image_path": "faculty_images/Usman_Ali.jpg",
+        "linkedin_url": "https://pk.linkedin.com/in/usmanali9525"
+    },
+    {
+        "position": "Lecturer",
+        "name": "Syed Fasih Ali Gardazi",
+        "academic_info": "MS Electrical Engineering, National University of Science and Technology, Pakistan\nBSc Engineering, Bahauddin Zakariya University, Pakistan",
+        "email": "fasih.ali@umt.edu.pk",
+        "image_url": "https://admin.umt.edu.pk/Media/UserProfile/638711579864710458471.jpg",
+        "image_path": "faculty_images/Syed_Fasih_Ali_Gardazi.jpg",
+        "linkedin_url": "https://pk.linkedin.com/in/syed-fasih-gardazi-851879170"
+    },
+    {
+        "position": "Lecturer",
+        "name": "Ahmad Hussain",
+        "academic_info": "MS Computer Science, COMSATS University Islamabad, Lahore, Pakistan\nMSc Computer Science, University of Agriculture Faisalabad, Pakistan",
+        "email": "ahmad.hussain@umt.edu.pk",
+        "image_url": "https://admin.umt.edu.pk/Media/UserProfile/638744341079239990923.jpg",
+        "image_path": "faculty_images/Ahmad_Hussain.jpg",
+        "linkedin_url": "https://pk.linkedin.com/in/ahmad-hussain-524a61208"
+    },
+    {
+        "position": "Lecturer",
+        "name": "Arman Sohail Saeed",
+        "academic_info": "Master of Science in Data Science, FAST-NUCES, Pakistan\nBS Computer Science, Government College University, Faisalabad, Pakistan",
+        "email": "arman.sohail@umt.edu.pk",
+        "image_url": "https://admin.umt.edu.pk/Media/UserProfile/638745468359407275940.jpg",
+        "image_path": "faculty_images/Arman_Sohail_Saeed.jpg",
+        "linkedin_url": "https://pk.linkedin.com/in/arman-sohail-saeed-9606671b6"
+    },
+    {
+        "position": "Lecturer",
+        "name": "Ashraf Ali",
+        "academic_info": "MPhil Computer Science, Institute of Management Sciences, Lahore, Pakistan\nBSc Electrical Engineering, University of Engineering and Technology, Pakistan",
+        "email": "ashraf.ali@umt.edu.pk",
+        "image_url": "https://admin.umt.edu.pk/Media/UserProfile/638747928305177656517.jpg",
+        "image_path": "faculty_images/Ashraf_Ali.jpg",
+        "linkedin_url": "https://pk.linkedin.com/in/ashraf-ali-8aa24a62"
+    },
+    {
+        "position": "Lecturer",
+        "name": "Muhammad Jawad Farooq",
+        "academic_info": "MS Computer Science, National University of Computer and Emerging Sciences, Pakistan\nBS Software Engineering, COMSATS, Pakistan",
+        "email": "jawad.farooq@umt.edu.pk",
+        "image_url": "https://admin.umt.edu.pk/Media/UserProfile/638744398404916278491.jpg",
+        "image_path": "faculty_images/Muhammad_Jawad_Farooq.jpg",
+        "linkedin_url": "https://pk.linkedin.com/in/muhammad-jawad-866024215"
+    },
+    {
+        "position": "Lecturer",
+        "name": "Muhammad Ibtissam",
+        "academic_info": "MS Computer Science, Lahore University of Management Sciences, Pakistan\nBS Computer Engineering, COMSATS University, Pakistan",
+        "email": "muhammad.ibtissam@umt.edu.pk",
+        "image_url": "https://admin.umt.edu.pk/Media/UserProfile/638586306954573824457.jpg",
+        "image_path": "faculty_images/Muhammad_Ibtissam.jpg",
+        "linkedin_url": "https://www.linkedin.com/pub/dir/Muhammad/Ibtissam"
+    },
+    {
+        "position": "Lecturer",
+        "name": "Adeel Ashraf",
+        "academic_info": "MS Information Technology, Lahore Leads University, Pakistan\nMSc Telecommunication, Government College University, Pakistan",
+        "email": "adeel_ashraf@umt.edu.pk",
+        "image_url": "https://admin.umt.edu.pk/Media/UserProfile/63851539825085093785.jpg",
+        "image_path": "faculty_images/Adeel_Ashraf.jpg",
+        "linkedin_url": "https://pk.linkedin.com/in/adeel-ashraf-1882a3174"
+    },
+    {
+        "position": "Lecturer",
+        "name": "Fatima Tariq",
+        "academic_info": "MS Computer Science, Lahore College for Women University, Pakistan\nBS Computer Science, Lahore Garrison University",
+        "email": "fatima-tariq@umt.edu.pk",
+        "image_url": "https://admin.umt.edu.pk/Media/UserProfile/638744398553268687326.jpg",
+        "image_path": "faculty_images/Fatima_Tariq.jpg",
+        "linkedin_url": "https://pk.linkedin.com/in/fatima-tariq-a01a3397"
+    },
+    {
+        "position": "Lecturer",
+        "name": "Rafia Asad Khan",
+        "academic_info": "MS Computer Science, University of Management and Technology, Lahore, Pakistan\nBS Computer Science, The Governement Sadiq College Women University, Bahawalpur, Pakistan",
+        "email": "rafia.asad@umt.edu.pk",
+        "image_url": "https://admin.umt.edu.pk/Media/UserProfile/638747789634972854497.jpg",
+        "image_path": "faculty_images/Rafia_Asad_Khan.jpg",
+        "linkedin_url": "https://scholar.google.com/citations?user=klqwr_MAAAAJ&hl=en"
+    },
+    {
+        "position": "Lecturer",
+        "name": "Muhammad Ayaz",
+        "academic_info": "MS Computer Science, University of Gujrat, Pakistan\nMaster in Computer Science, University of Lahore, Pakistan",
+        "email": "muhammad.ayaz@umt.edu.pk",
+        "image_url": "https://admin.umt.edu.pk/Media/UserProfile/63874439935074361374.jpg",
+        "image_path": "faculty_images/Muhammad_Ayaz.jpg",
+        "linkedin_url": "https://pk.linkedin.com/in/dr-mohammad-ayaz-6356b221"
+    },
+    {
+        "position": "Lecturer",
+        "name": "Maida Sabir",
+        "academic_info": "MS Software Engineering, University of Management and Technology, Pakistan\nBS Software Engineering, University of Management and Technology, Pakistan",
+        "email": "",
+        "image_url": "https://admin.umt.edu.pk/Media/UserProfile/638744399222923086292.jpg",
+        "image_path": "faculty_images/Maida_Sabir.jpg",
+        "linkedin_url": "https://pk.linkedin.com/in/maidah-sabir-3446a0194"
+    },
+    {
+        "position": "Lecturer",
+        "name": "Muzahir Saleem",
+        "academic_info": "MS Computer Science, University of Engineering and Technology, Pakistan\nMSc Computer Science, University of Gujrat, Lahore, Pakistan",
+        "email": "muzahir.saleem@umt.edu.pk",
+        "image_url": "https://admin.umt.edu.pk/Media/UserProfile/638744399084808126480.jpg",
+        "image_path": "faculty_images/Muzahir_Saleem.jpg",
+        "linkedin_url": "https://pk.linkedin.com/in/muzahirsaleem"
+    },
+    {
+        "position": "Lecturer",
+        "name": "Rashid Rasheed",
+        "academic_info": "MS Computer Science, International Islamic University Islamabad, Pakistan\nBS Computer Science, University of Lahore, Pakistan",
+        "email": "rashid.rasheed@umt.edu.pk",
+        "image_url": "https://admin.umt.edu.pk/Media/UserProfile/638747789767723657772.jpg",
+        "image_path": "faculty_images/Rashid_Rasheed.jpg",
+        "linkedin_url": "https://pk.linkedin.com/in/anum-rashid-8b460a20b"
+    },
+    {
+        "position": "Lecturer",
+        "name": "Sardar Waqar Khan",
+        "academic_info": "MS Software Engineering, Bahria University Islamabad, Pakistan\nBS Software Engineering, Mirpur University of Science and Technology, Pakistan",
+        "email": "sardar.waqar@umt.edu.pk",
+        "image_url": "https://admin.umt.edu.pk/Media/UserProfile/638526606984024313402.jpg",
+        "image_path": "faculty_images/Sardar_Waqar_Khan.jpg",
+        "linkedin_url": "https://www.linkedin.com/pub/dir/Sardar%20Waqar/Khan"
+    },
+    {
+        "position": "Lecturer",
+        "name": "Muhammad Bilal",
+        "academic_info": "MS Software Engineering, Government College University, Faisalabad, Pakistan\nMSc Computer Science, University of Agriculture Faisalabad, Pakistan",
+        "email": "m.bilal@umt.edu.pk",
+        "image_url": "https://admin.umt.edu.pk/Media/UserProfile/638706597424909946490.jpg",
+        "image_path": "faculty_images/Muhammad_Bilal.jpg",
+        "linkedin_url": "https://pk.linkedin.com/in/muhammad-bilal-50520820b"
+    },
+    {
+        "position": "Lecturer",
+        "name": "Umer Usman",
+        "academic_info": "Masters in Computer Science, COMSATS University Islamabad, Lahore Campus, Pakistan\nBS Software Engineering, COMSATS University Islamabad, Lahore Campus, Pakistan",
+        "email": "umer.usman@umt.edu.pk",
+        "image_url": "https://admin.umt.edu.pk/Media/UserProfile/63874779030040576940.jpg",
+        "image_path": "faculty_images/Umer_Usman.jpg",
+        "linkedin_url": "https://pk.linkedin.com/in/usman-umer-780726178"
+    },
+    {
+        "position": "Lecturer",
+        "name": "Muhammad Jamshaid Iqbal",
+        "academic_info": "MS Computer Science, COMSATS University Islamabad, Sahiwal Campus, Pakistan\nBS Computer Science, COMSATS University Islamabad, Sahiwal Campus",
+        "email": "jamshaid.iqbal@umt.edu.pk",
+        "image_url": "https://admin.umt.edu.pk/Media/UserProfile/638744400041750181175.jpg",
+        "image_path": "faculty_images/Muhammad_Jamshaid_Iqbal.jpg",
+        "linkedin_url": "https://pk.linkedin.com/in/muhammad-jamshaid-0649b3259"
+    },
+    {
+        "position": "Lecturer",
+        "name": "Numan Babar",
+        "academic_info": "MS Computer Science, University of Engineering and Technology, Pakistan\nBS Computer Science, University of Lahore, Pakistan",
+        "email": "numan.babar@umt.edu.pk",
+        "image_url": "https://admin.umt.edu.pk/Media/UserProfile/638744400367710472771.jpg",
+        "image_path": "faculty_images/Numan_Babar.jpg",
+        "linkedin_url": "https://pk.linkedin.com/in/naumanbabar"
+    },
+    {
+        "position": "Lecturer",
+        "name": "Muhammad Rizwan",
+        "academic_info": "MS Computer Science, University of Engineering Technology, Pakistan\nBS Information Technology, Sargodha University, Pakistan",
+        "email": "m-rizwan@umt.edu.pk",
+        "image_url": "https://admin.umt.edu.pk/Media/UserProfile/638744400741963217196.jpg",
+        "image_path": "faculty_images/Muhammad_Rizwan.jpg",
+        "linkedin_url": "https://pk.linkedin.com/in/muhammad-rizwan-b66357144"
+    },
+    {
+        "position": "Lecturer",
+        "name": "Shariq Aziz Butt",
+        "academic_info": "MS Information Technology, Superior University, Pakistan\nBS Information Technology, Virtual University Lahore,, Pakistan",
+        "email": "shariq.aziz@umt.edu.pk",
+        "image_url": "https://admin.umt.edu.pk/Media/UserProfile/638745467627275930727.jpg",
+        "image_path": "faculty_images/Shariq_Aziz_Butt.jpg",
+        "linkedin_url": "https://pk.linkedin.com/in/shariq-aziz-butt-73b9a677"
+    },
+    {
+        "position": "Lecturer",
+        "name": "Muhammad Shahbaz Ali",
+        "academic_info": "MS Computer Sciene, University of Central Punjab, Pakistan\nMaster of Information and Operational Management, University of Punjab, Lahore",
+        "email": "shahbazali@umt.edu.pk",
+        "image_url": "https://admin.umt.edu.pk/Media/UserProfile/638635614457004889700.jpg",
+        "image_path": "faculty_images/Muhammad_Shahbaz_Ali.jpg",
+        "linkedin_url": "https://www.linkedin.com/in/muhammad-shahbaz-6706b644"
+    },
+    {
+        "position": "Lecturer",
+        "name": "Usman Ul Haq",
+        "academic_info": "MS Computer Science, University of Sargodha, Pakistan\nBSc Telecommunication Engineering, Government College University Faisalabad (GCUF), Pakistan",
+        "email": "usman.haq@umt.edu.pk",
+        "image_url": "https://admin.umt.edu.pk/Media/UserProfile/63863561694081796181.jpg",
+        "image_path": "faculty_images/Usman_Ul_Haq.jpg",
+        "linkedin_url": "https://pk.linkedin.com/in/usman-ul-haq-b37044189"
+    },
+    {
+        "position": "Lecturer",
+        "name": "Reamsha Khan",
+        "academic_info": "MPhil Computer Science, University of Management and Technology, Pakistan\nBS Software Engineering, University of Management and Technology, Pakistan",
+        "email": "reamsha-khan@umt.edu.pk",
+        "image_url": "https://admin.umt.edu.pk/Media/UserProfile/63866933763077061277.jpg",
+        "image_path": "faculty_images/Reamsha_Khan.jpg",
+        "linkedin_url": "https://pk.linkedin.com/in/reamshakhan"
+    },
+    {
+        "position": "Lecturer",
+        "name": "Asma Arshad",
+        "academic_info": "MS Computer Science, Lahore College For Women University, Pakistan\nBS Computer Science, Government College University (GCU), Pakistan",
+        "email": "asma.arshad@umt.edu.pk",
+        "image_url": "https://admin.umt.edu.pk/Media/UserProfile/638744403309819827981.jpg",
+        "image_path": "faculty_images/Asma_Arshad.jpg",
+        "linkedin_url": "https://pk.linkedin.com/in/asma-arshad-2742811ba"
+    },
+    {
+        "position": "Lecturer",
+        "name": "Muhammad Faran Aslam",
+        "academic_info": "MS Computer Science, University of Central Punjab, Pakistan\nMSc Computer Science, University of Agriculture Faisalabad, Pakistan",
+        "email": "faran.aslam@umt.edu.pk",
+        "image_url": "https://admin.umt.edu.pk/Media/UserProfile/638744403163913620391.jpg",
+        "image_path": "faculty_images/Muhammad_Faran_Aslam.jpg",
+        "linkedin_url": "https://pk.linkedin.com/in/muhammad-faran-aslam-28551b190"
+    },
+    {
+        "position": "Lecturer",
+        "name": "Muhammad Faraz Manzoor",
+        "academic_info": "MS Information Technology, University of Management and Technology, Pakistan\nBBIT (Hons), University of Punjab, Pakistan",
+        "email": "faraz.manzoor@umt.edu.pk",
+        "image_url": "https://admin.umt.edu.pk/Media/UserProfile/638744402979288754928.jpg",
+        "image_path": "faculty_images/Muhammad_Faraz_Manzoor.jpg",
+        "linkedin_url": "https://pk.linkedin.com/in/faraz-manzoor-8506889b"
+    },
+    {
+        "position": "Lecturer",
+        "name": "Sadia Abbas Shah",
+        "academic_info": "MS Computer Science, Lahore College for Women University, Pakistan\nBS Computer Science, Lahore College for Women University, Pakistan",
+        "email": "sadia.abbas@umt.edu.pk",
+        "image_url": "https://admin.umt.edu.pk/Media/UserProfile/63874440377051740451.jpg",
+        "image_path": "faculty_images/Sadia_Abbas_Shah.jpg",
+        "linkedin_url": "https://pk.linkedin.com/in/sadia-abbas-shah-4057a428b"
+    },
+    {
+        "position": "Lecturer",
+        "name": "Asim Aziz Waqas",
+        "academic_info": "MS Electronics and Electrical Systems, University of Lahore, Pakistan\nBS Electronics and Communication Engineering, University of Engineering and Technology, Pakistan",
+        "email": "",
+        "image_url": "https://admin.umt.edu.pk/Media/UserProfile/638744403415604418560.jpg",
+        "image_path": "faculty_images/Asim_Aziz_Waqas.jpg",
+        "linkedin_url": "https://sst.umt.edu.pk/Faculty.aspx"
+    },
+    {
+        "position": "Lecturer",
+        "name": "Hamza Mustafa",
+        "academic_info": "MS Data Science, National University of Computer and Emerging Sciences, Pakistan\nBS Computer Science, University of Lahore, Pakistan",
+        "email": "hamza-mustafa@umt.edu.pk",
+        "image_url": "https://admin.umt.edu.pk/Media/UserProfile/638744404147436993743.jpg",
+        "image_path": "faculty_images/Hamza_Mustafa.jpg",
+        "linkedin_url": "https://pk.linkedin.com/in/iamhamzam1"
+    },
+    {
+        "position": "Lecturer",
+        "name": "Sana Naseem",
+        "academic_info": "MS Computer Science, COMSATS University Islamabad, Lahore Campus, Pakistan\nBS Computer Science, Lahore Garrison University, Pakistan",
+        "email": "sana.naseem@umt.edu.pk",
+        "image_url": "https://admin.umt.edu.pk/Media/UserProfile/638669334064622169462.jpg",
+        "image_path": "faculty_images/Sana_Naseem.jpg",
+        "linkedin_url": "https://pk.linkedin.com/in/sanam-naseem-073804190"
+    },
+    {
+        "position": "Lecturer",
+        "name": "Hareem Aslam",
+        "academic_info": "MPhil Computer Science, University of Punjab, Pakistan\nBS Software Engineering, University of Punjab, Pakistan",
+        "email": "hareem.aslam@umt.edu.pk",
+        "image_url": "https://admin.umt.edu.pk/Media/UserProfile/638669333429686323968.jpg",
+        "image_path": "faculty_images/Hareem_Aslam.jpg",
+        "linkedin_url": "https://www.linkedin.com/pub/dir/Hareem/Aslam"
+    },
+    {
+        "position": "Lecturer",
+        "name": "Hina Nawaz",
+        "academic_info": "MPhil Computer Science, Minhaj University Lahore, Pakistan\nBS Computer Science, University of Gujrat, Pakistan",
+        "email": "hina.nawaz@umt.edu.pk",
+        "image_url": "https://admin.umt.edu.pk/Media/UserProfile/638669333703210994321.jpg",
+        "image_path": "faculty_images/Hina_Nawaz.jpg",
+        "linkedin_url": "https://pk.linkedin.com/in/hina-nawaz-m-i-t-552789ba"
+    },
+    {
+        "position": "Lecturer",
+        "name": "Naseer Ahmad",
+        "academic_info": "MS Electronic Engineering, ISRA University Islamabad Campus, Pakistan\nBS Computer Science, Federal Urdu University Islamabad, Pakistan",
+        "email": "naseer.ahmad@umt.edu.pk",
+        "image_url": "https://admin.umt.edu.pk/Media/UserProfile/638669334475687589568.jpg",
+        "image_path": "faculty_images/Naseer_Ahmad.jpg",
+        "linkedin_url": "https://pk.linkedin.com/in/naseer-ahmad-9a6a592a3"
+    },
+    {
+        "position": "Lecturer",
+        "name": "Anam Umera",
+        "academic_info": "MS Information Technology, University of Management and Technology, Pakistan\nBS Information Technology, Government Post Graduate Women College Sahiwal, Pakistan",
+        "email": "anam.umera@umt.edu.pk",
+        "image_url": "https://admin.umt.edu.pk/Media/UserProfile/638744404289601277960.jpg",
+        "image_path": "faculty_images/Anam_Umera.jpg",
+        "linkedin_url": "https://pk.linkedin.com/in/anam-umera"
+    },
+    {
+        "position": "Lecturer",
+        "name": "Muhammad Umar Farooq",
+        "academic_info": "MS Computer Science, University of Engineering and Technology, Taxila, Pakistan\nBS Software Engineering, University of Sargodha, Pakistan",
+        "email": "muhammad.farooq@umt.edu.pk",
+        "image_url": "https://admin.umt.edu.pk/Media/UserProfile/638669331296678420667.JPG",
+        "image_path": "faculty_images/Muhammad_Umar_Farooq.jpg",
+        "linkedin_url": "https://pk.linkedin.com/in/umarfarooq51"
+    },
+    {
+        "position": "Lecturer",
+        "name": "Sidra Ramzan",
+        "academic_info": "MS Software Engineering, Comsats University Islamabad, Pakistan\nBSc Computer System Engineering, Mirpur University of Science and Technology, Mirpur, Pakistan",
+        "email": "idra.ramzan@umt.edu.pk",
+        "image_url": "https://admin.umt.edu.pk/Media/UserProfile/638744404864890632489.jpg",
+        "image_path": "faculty_images/Sidra_Ramzan.jpg",
+        "linkedin_url": "https://pk.linkedin.com/in/sidra-ramzan-7b92532bb"
+    },
+    {
+        "position": "Lecturer",
+        "name": "Shaheen Bibi",
+        "academic_info": "MS Computer Science, Ghulam Ishaq Khan Institute of Engineering Sciences and Technology, Pakistan\nBS Computer Science, Khwaja Fareed University of Engineering and Information Technology, Rahim Yar Khan, Pakistan",
+        "email": "shaheen.bibi@umt.edu.pk",
+        "image_url": "https://admin.umt.edu.pk/Media/UserProfile/638744404683119713311.jpg",
+        "image_path": "faculty_images/Shaheen_Bibi.jpg",
+        "linkedin_url": "https://www.linkedin.com/pub/dir/Shaheen+/Bibi+"
+    },
+    {
+        "position": "Lecturer",
+        "name": "Sania Qamar",
+        "academic_info": "MS Computer Science, Comsats University Islamabad, Lahore, Pakistan\nBS Software Engineering, University of Sargodha, Pakistan",
+        "email": "sania.qamar@umt.edu.pk",
+        "image_url": "https://admin.umt.edu.pk/Media/UserProfile/638744404505195619519.jpg",
+        "image_path": "faculty_images/Sania_Qamar.jpg",
+        "linkedin_url": "https://www.linkedin.com/pub/dir/Sania/Qamar"
+    },
+    {
+        "position": "Lecturer",
+        "name": "Sana Akhtar Naseer",
+        "academic_info": "Master of Computer Science, University of Central Punjab, Pakistan\nBS Computer Science, COMSATS University Islamabad, Lahore Campus, Pakistan",
+        "email": "sana.naseer@umt.edu.pk",
+        "image_url": "https://admin.umt.edu.pk/Media/UserProfile/unknown.jpg",
+        "image_path": "faculty_images/Sana_Akhtar_Naseer.jpg",
+        "linkedin_url": "https://pk.linkedin.com/in/sana-akhtar-ba06a6217"
+    },
+    {
+        "position": "Lecturer",
+        "name": "Zainab Noman",
+        "academic_info": "MS Software Engineering, University of Management and Technology, Pakistan\nBS Information Technology, Virtual University Lahore, Pakistan",
+        "email": "zainab.noman@umt.edu.pk",
+        "image_url": "https://admin.umt.edu.pk/Media/UserProfile/638747928637659794765.jpg",
+        "image_path": "faculty_images/Zainab_Noman.jpg",
+        "linkedin_url": "https://pk.linkedin.com/in/zainab-noman-1236872b3"
+    },
+    {
+        "position": "Lecturer",
+        "name": "Maryam Afzal",
+        "academic_info": "MS Computer Science",
+        "email": "maryamafzal@umt.edu.pk",
+        "image_url": "https://admin.umt.edu.pk/Media/UserProfile/638670956275944386594.jpg",
+        "image_path": "faculty_images/Maryam_Afzal.jpg",
+        "linkedin_url": "https://pk.linkedin.com/in/maryam-afzal-782117235"
+    },
+    {
+        "position": "Lecturer",
+        "name": "Amna Zulfiqar",
+        "academic_info": "MS Computer Science, National University of Computer and Emerging Sciences, Pakistan\nBS Computer Science, Virtual University, Pakistan",
+        "email": "amna.zulfiqar@umt.edu.pk",
+        "image_url": "https://admin.umt.edu.pk/Media/UserProfile/638671059231666289166.jpg",
+        "image_path": "faculty_images/Amna_Zulfiqar.jpg",
+        "linkedin_url": "https://www.linkedin.com/pub/dir/Amna%20/Zulfiqar"
+    },
+    {
+        "position": "Lecturer",
+        "name": "Shamila Ghafoor",
+        "academic_info": "MS Computer Science, PMAS Arid University Rawalpindi, Pakistan\nMaster of Information Technology, PMAS Arid University Rawalpindi, Pakistan",
+        "email": "shamila.ghafoor@umt.edu.pk",
+        "image_url": "https://admin.umt.edu.pk/Media/UserProfile/638744405127670710767.jpg",
+        "image_path": "faculty_images/Shamila_Ghafoor.jpg",
+        "linkedin_url": "https://www.linkedin.com/in/shamila-ghafoor-038158340"
+    },
+    {
+        "position": "Lecturer",
+        "name": "Daniyal Adeeb",
+        "academic_info": "MS Engineering - Control and Robotics, Lahore University of Management Sciences, Pakistan\nMS Engineering Control, Government College University (GCU), Lahore, Pakistan",
+        "email": "daniyal.adeeb@umt.edu.pk",
+        "image_url": "https://admin.umt.edu.pk/Media/UserProfile/unknown.jpg",
+        "image_path": "faculty_images/Daniyal_Adeeb.jpg",
+        "linkedin_url": "https://sst.umt.edu.pk/ai/Faculty-and-Staff.aspx"
+    },
+    {
+        "position": "Lecturer",
+        "name": "Raja Muzammil Muneer",
+        "academic_info": "MSc Computer Engineering, University of Engineering and Technology, Pakistan\nBSc Hons Electronics, Government College University (GCU), Lahore, Pakistan",
+        "email": "raja.muzammil@umt.edu.pk",
+        "image_url": "https://admin.umt.edu.pk/Media/UserProfile/unknown.jpg",
+        "image_path": "faculty_images/Raja_Muzammil_Muneer.jpg",
+        "linkedin_url": "https://pk.linkedin.com/in/raja-muzammil-muneer-073a97176"
+    },
+    {
+        "position": "Lecturer",
+        "name": "Arslan Ahmad",
+        "academic_info": "MS Data Science, University of Punjab, Pakistan\nBS Mathematics, Government College University (GCU), Lahore, Pakistan",
+        "email": "arslan.ahmad@umt.edu.pk",
+        "image_url": "https://admin.umt.edu.pk/Media/UserProfile/638744405276712123671.jpg",
+        "image_path": "faculty_images/Arslan_Ahmad.jpg",
+        "linkedin_url": "https://pk.linkedin.com/in/arslan-ahmad-4b21a3138"
+    },
+    {
+        "position": "Lecturer",
+        "name": "Qamar Abbas Arbie",
+        "academic_info": "MS Electrical Engineering, National University of Science and Technology, Pakistan\nBS Electrical Engineering, Sukkur IBA University, Pakistan",
+        "email": "qamar.abbas@umt.edu.pk",
+        "image_url": "https://admin.umt.edu.pk/Media/UserProfile/63874883797076242776.jpg",
+        "image_path": "faculty_images/Qamar_Abbas_Arbie.jpg",
+        "linkedin_url": "https://pk.linkedin.com/in/engineer-qamar-abbas-arbie-a9478914b"
+    },
+    {
+        "position": "Lecturer",
+        "name": "Ali Raza",
+        "academic_info": "MS Computer Science, COMSATS University, Islamabad, Pakistan\nBS Computer Science, Governement College University, Faislabad, Sahiwal Campus, Pakistan",
+        "email": "",
+        "image_url": "https://admin.umt.edu.pk/Media/UserProfile/63874884084088303588.jpg",
+        "image_path": "faculty_images/Ali_Raza.jpg",
+        "linkedin_url": "https://www.linkedin.com/in/ali-raza-b68332252"
+    },
+    {
+        "position": "Lecturer",
+        "name": "Rabia Khalid",
+        "academic_info": "MS Total Quality Management, University of Punjab, Pakistan\nBS Computer Science, University of Punjab, Pakistan",
+        "email": "rabia.khalid@umt.edu.pk",
+        "image_url": "https://admin.umt.edu.pk/Media/UserProfile/unknown.jpg",
+        "image_path": "faculty_images/Rabia_Khalid.jpg",
+        "linkedin_url": "https://pk.linkedin.com/in/rabia-khalid-91393b2a4"
+    },
+    {
+        "position": "Lecturer",
+        "name": "Basit Sattar",
+        "academic_info": "MS Computer Science, University of Central Punjab, Pakistan\nBS Computer Science, COMSATS, Pakistan",
+        "email": "basit.sattar@umt.edu.pk",
+        "image_url": "https://admin.umt.edu.pk/Media/UserProfile/638711578989107392910.jpg",
+        "image_path": "faculty_images/Basit_Sattar.jpg",
+        "linkedin_url": "https://pk.linkedin.com/in/basit-sattar-1b82272b4"
+    },
+    {
+        "position": "Lecturer",
+        "name": "Ali Harris",
+        "academic_info": "MS Computer Science, Information Technology University, Pakistan\nBS Computer Science, Government College University, Pakistan",
+        "email": "ali.harris@umt.edu.pk",
+        "image_url": "https://admin.umt.edu.pk/Media/UserProfile/638711574088565519856.jpg",
+        "image_path": "faculty_images/Ali_Harris.jpg",
+        "linkedin_url": "https://pk.linkedin.com/in/ali-harris-3441495a"
+    },
+    {
+        "position": "Lecturer",
+        "name": "Ahmed Raza",
+        "academic_info": "MS Computer Science, University of Central Punjab, Pakistan\nBS Computer Science, University of Central Punjab, Pakistan",
+        "email": "ahmed_raza@umt.edu.pk",
+        "image_url": "https://admin.umt.edu.pk/Media/UserProfile/638706591009515001951.jpg",
+        "image_path": "faculty_images/Ahmed_Raza.jpg",
+        "linkedin_url": "https://pk.linkedin.com/in/ahmed-raza-01a3a3317"
+    },
+    {
+        "position": "Lecturer",
+        "name": "Taila Jabeen",
+        "academic_info": "MS - Computer Science, Information Technology University, Pakistan\nBS - Computer Science, Lahore College for Women University, Pakistan",
+        "email": "taila.jabeen@umt.edu.pk",
+        "image_url": "https://admin.umt.edu.pk/Media/UserProfile/63874433222033605433.jpg",
+        "image_path": "faculty_images/Taila_Jabeen.jpg",
+        "linkedin_url": "https://pk.linkedin.com/in/taila-jabeen-b0b9409a"
+    },
+    {
+        "position": "Lecturer",
+        "name": "Arshi Iftikhar",
+        "academic_info": "MS Computer Science, Lahore College Women University, Pakistan\nBS Computer Science, Lahore College Women University, Pakistan",
+        "email": "arshi.iftikhar@umt.edu.pk",
+        "image_url": "https://admin.umt.edu.pk/Media/UserProfile/638744336722425148242.jpg",
+        "image_path": "faculty_images/Arshi_Iftikhar.jpg",
+        "linkedin_url": "https://sst.umt.edu.pk/ai/Faculty-and-Staff.aspx"
+    },
+    {
+        "position": "Lecturer",
+        "name": "Habiba Habib",
+        "academic_info": "MS Information Security, University of Management and Technology, Pakistan\nBS Information Technology, University of Management and Technology, Pakistan",
+        "email": "habiba.habib@umt.edu.pk",
+        "image_url": "https://admin.umt.edu.pk/Media/UserProfile/638744336852071587207.jpg",
+        "image_path": "faculty_images/Habiba_Habib.jpg",
+        "linkedin_url": "https://pk.linkedin.com/in/habiba-habib-083a142b6"
+    },
+    {
+        "position": "Lecturer",
+        "name": "Syed Khizar Abbas",
+        "academic_info": "MS System Engineering, National University of Science and Technology (NUST), Islamabad, Pakistan\nBSs Electronic Engineering, Islamia University of Bahawalpur, Pakistan",
+        "email": "khizar.abbas@umt.edu.pk",
+        "image_url": "https://admin.umt.edu.pk/Media/UserProfile/63874779017046270746.jpg",
+        "image_path": "faculty_images/Syed_Khizar_Abbas.jpg",
+        "linkedin_url": "https://pk.linkedin.com/in/syed-khizar-abbass-59053857"
+    },
+    {
+        "position": "Lecturer",
+        "name": "Muhammad Nadeem",
+        "academic_info": "MS Computer Science, Bahauddin Zakria University, Pakistan\nMSc Computer Science, University of Punjab, Pakistan",
+        "email": "muhammad.nadeem@umt.edu.pk",
+        "image_url": "https://admin.umt.edu.pk/Media/UserProfile/638706590667455552745.jpg",
+        "image_path": "faculty_images/Muhammad_Nadeem.jpg",
+        "linkedin_url": "https://pk.linkedin.com/in/muhammad-nadeem-871112277"
+    },
+    {
+        "position": "Lecturer",
+        "name": "Saima Shaheen",
+        "academic_info": "MS - Electrical Engineering, University of Engineering & Technology, Pakistan\nBS - Electrical Engineering, University of Engineering & Technology, Pakistan",
+        "email": "saima.shaheen@umt.edu.pk",
+        "image_url": "https://admin.umt.edu.pk/Media/UserProfile/638744330601936408193.jpg",
+        "image_path": "faculty_images/Saima_Shaheen.jpg",
+        "linkedin_url": "https://pk.linkedin.com/in/saima-shaheen-99492bb3"
+    },
+    {
+        "position": "Lecturer",
+        "name": "Sundas Sagheer",
+        "academic_info": "M phil Computer Science, University of the Punjab, Pakistan\nBS - Software Engineering, University of the Punjab, Pakistan",
+        "email": "sundas.sagheer@umt.edu.pk",
+        "image_url": "https://admin.umt.edu.pk/Media/UserProfile/638706408122648783264.jpg",
+        "image_path": "faculty_images/Sundas_Sagheer.jpg",
+        "linkedin_url": "https://pk.linkedin.com/in/sundas-sagheer-3a30b6167"
+    },
+    {
+        "position": "Lecturer",
+        "name": "Muhammad Sarwar",
+        "academic_info": "MS Machine Learning, COMSATS, Lahore\nBSc Artificial Intelligence, Government College University, Lahore",
+        "email": "muhammad.sarwar@umt.edu.pk",
+        "image_url": "https://admin.umt.edu.pk/Media/UserProfile/638711578004624911462.jpg",
+        "image_path": "faculty_images/Muhammad_Sarwar.jpg",
+        "linkedin_url": "https://pk.linkedin.com/in/muhammad-sarwar-947971167"
+    },
+    {
+        "position": "Lecturer",
+        "name": "Muhammad Bilal Anwar",
+        "academic_info": "MS Electrical Engineering, University of Engineering & Technology, Pakistan\nBS - Electrical Engineering, University of Management & Technology, Pakistan",
+        "email": "bilal.anwar@umt.edu.pk",
+        "image_url": "https://admin.umt.edu.pk/Media/UserProfile/638745468677262580726.jpg",
+        "image_path": "faculty_images/Muhammad_Bilal_Anwar.jpg",
+        "linkedin_url": "https://pk.linkedin.com/in/mbanwar7"
+    },
+    {
+        "position": "Lecturer",
+        "name": "Shafaq Khan",
+        "academic_info": "MS - Computer Science, Ghulam Ishaq Khan Institute of Engineering Sciences and Technology, Pakistan\nBS - Software Engineering, University of Engineering & Technology, Pakistan",
+        "email": "shafaq.khan@umt.edu.pk",
+        "image_url": "https://admin.umt.edu.pk/Media/UserProfile/638452403855119982511.jpg",
+        "image_path": "faculty_images/Shafaq_Khan.jpg",
+        "linkedin_url": "https://pk.linkedin.com/in/shafaq-khan-554520bb"
+    },
+    {
+        "position": "Lecturer",
+        "name": "Samra Kanwal",
+        "academic_info": "MS Computer Science, COMSATS, Pakistan\nBS Computer Science, Government Women University Bahawalpur, Pakistan",
+        "email": "samra.kanwal@umt.edu.pk",
+        "image_url": "https://admin.umt.edu.pk/Media/UserProfile/63870641645076077776.jpg",
+        "image_path": "faculty_images/Samra_Kanwal.jpg",
+        "linkedin_url": "https://www.linkedin.com/pub/dir/Samra+/Kanwal"
+    },
+    {
+        "position": "Lecturer",
+        "name": "Hassan Moatasam Awan",
+        "academic_info": "MS Computer Engineering, National University Of Science and Technology\nBS Computer System Engineering, Bahauddin Zakariya University",
+        "email": "hassan.moatasam@umt.edu.pk",
+        "image_url": "https://admin.umt.edu.pk/Media/UserProfile/638747787656153468615.jpg",
+        "image_path": "faculty_images/Hassan_Moatasam_Awan.jpg",
+        "linkedin_url": "https://pk.linkedin.com/in/hassan-awan-213955173"
+    },
+    {
+        "position": "Lecturer",
+        "name": "Ammar Haider",
+        "academic_info": "MS Computer Science, Forman Christian College University, Pakistan\nBS Computer Science, University of Sargodha, Pakistan",
+        "email": "ammar.haider@umt.edu.pk",
+        "image_url": "https://admin.umt.edu.pk/Media/UserProfile/638744336995674349567.jpg",
+        "image_path": "faculty_images/Ammar_Haider.jpg",
+        "linkedin_url": "https://pk.linkedin.com/in/ammar-haider-jafri-835b5218b"
+    },
+    {
+        "position": "Lecturer",
+        "name": "Noor Fatima",
+        "academic_info": "MS Computer Science, Fast University Lahore, Pakistan\nBSc Computer Science, Kinnaird Collage For Women University Lahore, Pakistan",
+        "email": "noor.fatima@umt.edu.pk",
+        "image_url": "https://admin.umt.edu.pk/Media/UserProfile/638747789299879804987.jpg",
+        "image_path": "faculty_images/Noor_Fatima.jpg",
+        "linkedin_url": "https://pk.linkedin.com/in/noor-fatima-0854bb32a"
+    },
+    {
+        "position": "Lecturer",
+        "name": "Hassan Bashir",
+        "academic_info": "MS Computer Science, University of Lahore, Pakistan\nBS Computer Science, University of Engineering and Technology, Pakistan",
+        "email": "hassan.bashir@umt.edu.pk",
+        "image_url": "https://admin.umt.edu.pk/Media/UserProfile/638706416934677118467.jpg",
+        "image_path": "faculty_images/Hassan_Bashir.jpg",
+        "linkedin_url": "https://pk.linkedin.com/in/hassan-bashir-74609aab"
+    },
+    {
+        "position": "Lecturer",
+        "name": "Ammar Yasir Sajjad",
+        "academic_info": "MS Computer Science, University of Management & Technology, Lahore, Pakistan\nBS - Computer Science, University of Management and Technology, Lahore, Pakistan",
+        "email": "ammar.yasir@umt.edu.pk",
+        "image_url": "https://admin.umt.edu.pk/Media/UserProfile/638706390641572395157.jpg",
+        "image_path": "faculty_images/Ammar_Yasir_Sajjad.jpg",
+        "linkedin_url": "https://pk.linkedin.com/in/ammar-yasir-cs"
+    },
+    {
+        "position": "Lecturer",
+        "name": "Madiha Jalil",
+        "academic_info": "MSc Electrical Engineering, University of Engineering and Technology, Pakistan\nBSc Electrical Engineering, University of Engineering and Technology, Pakistan",
+        "email": "madihajalil@umt.edu.pk",
+        "image_url": "https://admin.umt.edu.pk/Media/UserProfile/638357291398287493828.jpg",
+        "image_path": "faculty_images/Madiha_Jalil.jpg",
+        "linkedin_url": "https://pk.linkedin.com/in/madiha-jalil-5b6286279"
+    },
+    {
+        "position": "Lecturer",
+        "name": "Hafiz Muhammad Tahir Sohail",
+        "academic_info": "MS Computer Science, COMSATS, Pakistan\nBS Computer Science, COMSATS, Pakistan",
+        "email": "tahir.sohail@umt.edu.pk",
+        "image_url": "https://admin.umt.edu.pk/Media/UserProfile/638744337425005379500.jpg",
+        "image_path": "faculty_images/Hafiz_Muhammad_Tahir_Sohail.jpg",
+        "linkedin_url": "https://pk.linkedin.com/in/hafiz-muhammad-sohail-tahir-b34bb9199"
+    },
+    {
+        "position": "Lecturer",
+        "name": "Abdullah Hasan",
+        "academic_info": "PhD Electrical Engineering Scholar, FAST-NUCES, Pakistan\nMS Electrical Engineering, National University of Sciences & Technology, Pakistan",
+        "email": "abdullah.hassan@umt.edu.pk",
+        "image_url": "https://admin.umt.edu.pk/Media/UserProfile/638744338125765240576.jpg",
+        "image_path": "faculty_images/Abdullah_Hasan.jpg",
+        "linkedin_url": "https://pk.linkedin.com/in/syed-abdullah-hasan-chishti"
+    },
+    {
+        "position": "Lecturer",
+        "name": "Ahmed Raza",
+        "academic_info": "MS Computer Science, COMSATS, Pakistan\nBS Computer Science, COMSATS, Pakistan",
+        "email": "ahmedraza@umt.edu.pk",
+        "image_url": "https://admin.umt.edu.pk/Media/UserProfile/638744337987498839749.jpg",
+        "image_path": "faculty_images/Ahmed_Raza.jpg",
+        "linkedin_url": "https://pk.linkedin.com/in/ahmed-raza-01a3a3317"
+    },
+    {
+        "position": "Lecturer",
+        "name": "Khawaja Ubaid Ur Rehman",
+        "academic_info": "MS- Software Engineering, University of Management & Technology, Lahore, Pakistan, 2018\nBS- Computer Science, University of Management and Technology, Lahore, Pakistan, 2015",
+        "email": "ubaid.rehman@umt.edu.pk",
+        "image_url": "https://admin.umt.edu.pk/Media/UserProfile/638744331402286874228.jpg",
+        "image_path": "faculty_images/Khawaja_Ubaid_Ur_Rehman.jpg",
+        "linkedin_url": "https://pk.linkedin.com/in/khawaja-ubaid-ur-rehman-71242220b"
+    },
+    {
+        "position": "Lecturer",
+        "name": "Laraib Kanwal",
+        "academic_info": "MS Electrical Engineering, National University of Computer & Emerging Sciences (FAST-NU), Pakistan\nBS Electrical Engineering, University of Engineering and Technology, Pakistan",
+        "email": "laraib.kanwal@umt.edu.pk",
+        "image_url": "https://admin.umt.edu.pk/Media/UserProfile/638744336473894372389.jpg",
+        "image_path": "faculty_images/Laraib_Kanwal.jpg",
+        "linkedin_url": "https://pk.linkedin.com/in/laraib-kanwal-178779303"
+    },
+    {
+        "position": "Lecturer",
+        "name": "Insha Rafique",
+        "academic_info": "MS Software Engineering, University of Management and Technology, Pakistan\nBS Software Engineering, University of Management and Technology, Pakistan",
+        "email": "insha.rafique@umt.edu.pk",
+        "image_url": "https://admin.umt.edu.pk/Media/UserProfile/638360059577169697716.jpg",
+        "image_path": "faculty_images/Insha_Rafique.jpg",
+        "linkedin_url": "https://pk.linkedin.com/in/insha-rafique-972884156"
+    },
+    {
+        "position": "Lecturer",
+        "name": "Ayesha Asmat",
+        "academic_info": "MPhil- Computer Science, University of the Punjab, Lahore, Pakistan\nBS- Computer Science, Lahore Collage for Women University, Lahore, Pakistan",
+        "email": "ayesha.asmat@umt.edu.pk",
+        "image_url": "https://admin.umt.edu.pk/Media/UserProfile/638744332091128160112.jpg",
+        "image_path": "faculty_images/Ayesha_Asmat.jpg",
+        "linkedin_url": "https://pk.linkedin.com/in/ayesha-asmat"
+    },
+    {
+        "position": "Lecturer",
+        "name": "Shinawar Naeem",
+        "academic_info": "MS Computer Science, National University of Computer and Emerging Sciences (FAST), Lahore, Pakistan\nBS Computer Science, Lahore College for Women University, Pakistan",
+        "email": "shinawar.naeem@umt.edu.pk",
+        "image_url": "https://admin.umt.edu.pk/Media/UserProfile/638744402629135845913.jpg",
+        "image_path": "faculty_images/Shinawar_Naeem.jpg",
+        "linkedin_url": "https://pk.linkedin.com/in/shinawar-naeem-17614b243"
+    },
+    {
+        "position": "Senior Lecturer",
+        "name": "Muhamamd Imran Shafi",
+        "academic_info": "MS Computer Science, Blekinge Institute of Technology, Sweden",
+        "email": "imran.shafi@umt.edu.pk",
+        "image_url": "https://admin.umt.edu.pk/Media/UserProfile/638711575888290791829.jpg",
+        "image_path": "faculty_images/Muhamamd_Imran_Shafi.jpg",
+        "linkedin_url": "https://pk.linkedin.com/in/cancershah"
+    },
+    {
+        "position": "Senior Lecturer",
+        "name": "Sowaiba Khan",
+        "academic_info": "MS Computer Science, Lahore College for Women University (LCWU), Pakistan",
+        "email": "sowaiba.khan@umt.edu.pk",
+        "image_url": "https://admin.umt.edu.pk/Media/UserProfile/638744335529468332946.jpg",
+        "image_path": "faculty_images/Sowaiba_Khan.jpg",
+        "linkedin_url": "https://pk.linkedin.com/in/sowaibakhan"
+    },
+    {
+        "position": "Senior Lecturer",
+        "name": "Umair Ghazanfar",
+        "academic_info": "MS Computer Engineering, University of Engineering and Technology, Pakistan\nBS in Computer Engineering, COMSATS University Islamabad, Pakistan",
+        "email": "umair.ghazanfar@umt.edu.pk",
+        "image_url": "https://admin.umt.edu.pk/Media/UserProfile/638744340049307653930.jpg",
+        "image_path": "faculty_images/Umair_Ghazanfar.jpg",
+        "linkedin_url": "https://pk.linkedin.com/in/umairghazanfaramazonmanager"
+    },
+    {
+        "position": "Senior Lecturer",
+        "name": "Muhammad Mustansar Ali Khan",
+        "academic_info": "MS - Software Engineering, Blekinge Institue of Technology, Sweden\nMSc Computer Science, Quaid-i-Azam University, Pakistan",
+        "email": "mustansar.ali@umt.edu.pk",
+        "image_url": "https://admin.umt.edu.pk/Media/UserProfile/638711573949016436901.jpg",
+        "image_path": "faculty_images/Muhammad_Mustansar_Ali_Khan.jpg",
+        "linkedin_url": "https://sst.umt.edu.pk/Faculty.aspx"
+    },
+    {
+        "position": "Principal Lecturer",
+        "name": "Hamid Raza Malik",
+        "academic_info": "MS Computer Science, National College of Business Administration and Economics, Pakistan\nMSc Computer Science, The London College (University College Kensington), United Kingdom",
+        "email": "hamid_raza@umt.edu.pk",
+        "image_url": "https://admin.umt.edu.pk/Media/UserProfile/63874440125032130132.jpg",
+        "image_path": "faculty_images/Hamid_Raza_Malik.jpg",
+        "linkedin_url": "https://pk.linkedin.com/in/dr-hamid-raza"
+    },
+    {
+        "position": "Principal Lecturer",
+        "name": "Abdul Basit",
+        "academic_info": "MS Computer Science, COMSATS, Pakistan\nBS Computer Science, National College Of Business Administration And Economics, Pakistan",
+        "email": "a.basit@umt.edu.pk",
+        "image_url": "https://admin.umt.edu.pk/Media/UserProfile/638745468075841396584.jpg",
+        "image_path": "faculty_images/Abdul_Basit.jpg",
+        "linkedin_url": "https://pk.linkedin.com/in/mr-abdul-basit-1a7784265"
+    },
+    {
+        "position": "Lab Engineer",
+        "name": "Riaz Ahmad",
+        "academic_info": "BS Software Engineering, University of Management and Technology, Pakistan",
+        "email": "riazahmad@umt.edu.pk",
+        "image_url": "https://admin.umt.edu.pk/Media/UserProfile/638744336339033289903.jpg",
+        "image_path": "faculty_images/Riaz_Ahmad.jpg",
+        "linkedin_url": "https://pk.linkedin.com/in/riaz-ahmad-b6493a284"
+    },
+    {
+        "position": "Lab Engineer",
+        "name": "Hafiz Muhammad Ashja Khan",
+        "academic_info": "BS Telecommunication and Networks, University of Management & Technology, Pakistan",
+        "email": "ashja.khan@umt.edu.pk",
+        "image_url": "https://admin.umt.edu.pk/Media/UserProfile/638744332636860483686.jpg",
+        "image_path": "faculty_images/Hafiz_Muhammad_Ashja_Khan.jpg",
+        "linkedin_url": "https://sst.umt.edu.pk/Informatics/Faculty-and-Staff.aspx"
+    },
+    {
+        "position": "Lab Engineer",
+        "name": "Iqra Khalil",
+        "academic_info": "MSc Computer Science, University of Engineering and Technology, Pakistan\nBS Computer Science, Lahore College Women University",
+        "email": "iqra.khalil@umt.edu.pk",
+        "image_url": "https://admin.umt.edu.pk/Media/UserProfile/unknown.jpg",
+        "image_path": "faculty_images/Iqra_Khalil.jpg",
+        "linkedin_url": "https://pk.linkedin.com/in/iqra-khalid-2176ba121"
+    },
+    {
+        "position": "Lab Engineer",
+        "name": "Bilal Hussain",
+        "academic_info": "BS Software Engineering, University of Management and Technology, Pakistan",
+        "email": "bilal.hussain@umt.edu.pk",
+        "image_url": "https://admin.umt.edu.pk/Media/UserProfile/638706417793686604368.jpg",
+        "image_path": "faculty_images/Bilal_Hussain.jpg",
+        "linkedin_url": "https://pk.linkedin.com/in/bilal-hussain-b311841b0"
+    },
+    {
+        "position": "Lab Engineer",
+        "name": "Faheem Akbar",
+        "academic_info": "MS Computer Science, University of Gujrat, Pakistan\nAD Software Technologies, Government College University, Faisalabad, Pakistan",
+        "email": "faheem.akbar@umt.edu.pk",
+        "image_url": "https://admin.umt.edu.pk/Media/UserProfile/638744337569820767982.jpg",
+        "image_path": "faculty_images/Faheem_Akbar.jpg",
+        "linkedin_url": "https://sst.umt.edu.pk/Faculty.aspx"
+    },
+    {
+        "position": "Lab Engineer",
+        "name": "Jaweria Aslam",
+        "academic_info": "BS Information Techonolgy, University of Management and Technology, Pakistan",
+        "email": "jaweria.aslam@umt.edu.pk",
+        "image_url": "https://admin.umt.edu.pk/Media/UserProfile/638744337861545974154.jpg",
+        "image_path": "faculty_images/Jaweria_Aslam.jpg",
+        "linkedin_url": "https://pk.linkedin.com/in/jaweria-aslam"
+    },
+    {
+        "position": "Lab Engineer",
+        "name": "Muhammad Rehan Akhtar",
+        "academic_info": "BS Software Engineering, COMSATS, Pakistan",
+        "email": "rehan.akhtar@umt.edu.pk",
+        "image_url": "https://admin.umt.edu.pk/Media/UserProfile/638747928528823952882.jpg",
+        "image_path": "faculty_images/Muhammad_Rehan_Akhtar.jpg",
+        "linkedin_url": "https://pk.linkedin.com/in/muhammad-rehan-8408b5195"
+    },
+    {
+        "position": "Lab Engineer",
+        "name": "Awais Amin",
+        "academic_info": "BS Computer Science, COMSATS University Islamabad, Pakistan",
+        "email": "awais.amin@umt.edu.pk",
+        "image_url": "https://admin.umt.edu.pk/Media/UserProfile/638744339677507129750.jpg",
+        "image_path": "faculty_images/Awais_Amin.jpg",
+        "linkedin_url": "https://sst.umt.edu.pk/Faculty.aspx"
+    },
+    {
+        "position": "Lab Engineer",
+        "name": "Muhammad Masab Akram",
+        "academic_info": "BS Computer Science, COMSATS University Islamabad, Pakistan",
+        "email": "masab.akram@umt.edu.pk",
+        "image_url": "https://admin.umt.edu.pk/Media/UserProfile/638744340569324259932.jpg",
+        "image_path": "faculty_images/Muhammad_Masab_Akram.jpg",
+        "linkedin_url": "https://pk.linkedin.com/in/dr-muhammad-akram-928b6128"
+    },
+    {
+        "position": "Lab Engineer",
+        "name": "Amal Akbar",
+        "academic_info": "BS Electrical Engineering, University of Management and Technology, Sialkot, Pakistan",
+        "email": "amal.akbar@umt.edu.pk",
+        "image_url": "https://admin.umt.edu.pk/Media/UserProfile/638706594927289884728.jpg",
+        "image_path": "faculty_images/Amal_Akbar.jpg",
+        "linkedin_url": "https://pk.linkedin.com/in/amal-akbar-javed"
+    },
+    {
+        "position": "Lab Engineer",
+        "name": "Hina Bari",
+        "academic_info": "MS Computer Science, Government College University, Lahore, Pakistan\nBS Computer Science, Khawaja Fareed UEIT, Rahim Yar Khan, Pakistan",
+        "email": "hina.bari@umt.edu.pk",
+        "image_url": "https://admin.umt.edu.pk/Media/UserProfile/638744340725518629551.jpg",
+        "image_path": "faculty_images/Hina_Bari.jpg",
+        "linkedin_url": "https://www.linkedin.com/in/hina-bari-a87548164"
+    },
+    {
+        "position": "Lab Engineer",
+        "name": "Tahir Shahzad",
+        "academic_info": "BS Computer Science, University of Gujrat, Pakistan",
+        "email": "tahir.shahzad@umt.edu.pk",
+        "image_url": "https://admin.umt.edu.pk/Media/UserProfile/638706595192531530253.jpg",
+        "image_path": "faculty_images/Tahir_Shahzad.jpg",
+        "linkedin_url": "https://pk.linkedin.com/in/tahirshahzad4"
+    },
+    {
+        "position": "Lab Engineer",
+        "name": "Muhammad Faheem Subhnani",
+        "academic_info": "BS Computer Science, University of Management and Technology, Pakistan",
+        "email": "faheem.subhani@umt.edu.pk",
+        "image_url": "https://admin.umt.edu.pk/Media/UserProfile/638747788455773308577.jpg",
+        "image_path": "faculty_images/Muhammad_Faheem_Subhnani.jpg",
+        "linkedin_url": "https://pk.linkedin.com/in/dr-muhammad-faheem-04251426b"
+    },
+    {
+        "position": "Lab Engineer",
+        "name": "Uzair Arslan",
+        "academic_info": "BS Computer Science, Bahria University, Pakistan",
+        "email": "uzair.arslan@umt.edu.pk",
+        "image_url": "https://admin.umt.edu.pk/Media/UserProfile/638503308747584567758.jpg",
+        "image_path": "faculty_images/Uzair_Arslan.jpg",
+        "linkedin_url": "https://sst.umt.edu.pk/Faculty.aspx"
+    },
+    {
+        "position": "Lab Engineer",
+        "name": "Awais Nasir",
+        "academic_info": "BS Computer Science, University of Punjab, Pakistan",
+        "email": "awais.nasir@umt.edu.pk",
+        "image_url": "https://admin.umt.edu.pk/Media/UserProfile/638745468529594881959.jpg",
+        "image_path": "faculty_images/Awais_Nasir.jpg",
+        "linkedin_url": "https://pk.linkedin.com/in/m-awais-nasir"
+    },
+    {
+        "position": "Lab Engineer",
+        "name": "Mirza Muhammad Haris Baig",
+        "academic_info": "BS Software Engineering, University of Management and Technology, Pakistan",
+        "email": "haris.baig@umt.edu.pk",
+        "image_url": "https://admin.umt.edu.pk/Media/UserProfile/638744341206748294674.jpg",
+        "image_path": "faculty_images/Mirza_Muhammad_Haris_Baig.jpg",
+        "linkedin_url": "https://pk.linkedin.com/in/mirza-haris-78a003295"
+    },
+    {
+        "position": "Lab Engineer",
+        "name": "Hafiz Muhammad Ahmad Nawaz",
+        "academic_info": "MS Software Engineering, University of Agriculture Faisalabad, Pakistan\nBS Information Technology, University of Education, Pakistan",
+        "email": "ahmadnawaz@umt.edu.pk",
+        "image_url": "https://admin.umt.edu.pk/Media/UserProfile/638747787307592021759.jpg",
+        "image_path": "faculty_images/Hafiz_Muhammad_Ahmad_Nawaz.jpg",
+        "linkedin_url": "https://pk.linkedin.com/in/hafiz-muhammad-ahmad-270522195"
+    },
+    {
+        "position": "Lab Engineer",
+        "name": "Muhammad Abdullah Fiaz",
+        "academic_info": "MS Computer Science, COMSATS, Lahore, Pakistan\nBS Computer Science, Lahore Leeds University, Pakistan",
+        "email": "abdullah.fiaz@umt.edu.pk",
+        "image_url": "https://admin.umt.edu.pk/Media/UserProfile/638744398788691076869.jpg",
+        "image_path": "faculty_images/Muhammad_Abdullah_Fiaz.jpg",
+        "linkedin_url": "https://pk.linkedin.com/in/m-abdullah-fiaz-30b60022a"
+    },
+    {
+        "position": "Lab Engineer",
+        "name": "Javeria Iqbal",
+        "academic_info": "BS Computer Science, National College of Business Administration and Economics (NCBA&E), Pakistan",
+        "email": "javeria.iqbal@umt.edu.pk",
+        "image_url": "https://admin.umt.edu.pk/Media/UserProfile/638747787772837790283.jpg",
+        "image_path": "faculty_images/Javeria_Iqbal.jpg",
+        "linkedin_url": "https://pk.linkedin.com/in/javeria-iqbal-aaa94225a"
+    },
+    {
+        "position": "Lab Engineer",
+        "name": "Tabish Riaz",
+        "academic_info": "BS Computer Science, University of Management and Technology, Pakistan",
+        "email": "tabish.riaz@umt.edu.pk",
+        "image_url": "https://admin.umt.edu.pk/Media/UserProfile/638745467898510664851.jpg",
+        "image_path": "faculty_images/Tabish_Riaz.jpg",
+        "linkedin_url": "https://pk.linkedin.com/in/tabish-riaz-48bb7b235"
+    },
+    {
+        "position": "Lab Engineer",
+        "name": "Shahzaib Mushtaq Shah",
+        "academic_info": "BS Computer Science, Comsats University Islamabad Vehari Campus, Pakistan",
+        "email": "shahzaib.mushtaq@umt.edu.pk",
+        "image_url": "https://admin.umt.edu.pk/Media/UserProfile/638747789931574788157.jpg",
+        "image_path": "faculty_images/Shahzaib_Mushtaq_Shah.jpg",
+        "linkedin_url": "https://pk.linkedin.com/in/shahzaib-mushtaq-8b4068199"
+    },
+    {
+        "position": "Lab Engineer",
+        "name": "Mohammad Tayyab Rafique",
+        "academic_info": "BS Software Engineering, University of Management and Technology, Pakistan",
+        "email": "tayyab.rafique@umt.edu.pk",
+        "image_url": "https://admin.umt.edu.pk/Media/UserProfile/638706597135086900508.jpg",
+        "image_path": "faculty_images/Mohammad_Tayyab_Rafique.jpg",
+        "linkedin_url": "https://pk.linkedin.com/in/mohammad-tayyab-rafique-81a578219"
+    },
+    {
+        "position": "Lab Engineer",
+        "name": "Zahida Tayyab",
+        "academic_info": "BS Computer Science, University of Central Punjab, Pakistan",
+        "email": "zahida.tayyab@umt.edu.pk",
+        "image_url": "https://admin.umt.edu.pk/Media/UserProfile/638744399484322491432.jpg",
+        "image_path": "faculty_images/Zahida_Tayyab.jpg",
+        "linkedin_url": "https://www.linkedin.com/in/zahida-tayyib-0a114a63"
+    },
+    {
+        "position": "Lab Engineer",
+        "name": "Hafiza Hina Javed",
+        "academic_info": "BS Computer Science, University of Central Punjab, Pakistan",
+        "email": "hina.javed@umt.edu.pk",
+        "image_url": "https://admin.umt.edu.pk/Media/UserProfile/638744399631774276177.jpg",
+        "image_path": "faculty_images/Hafiza_Hina_Javed.jpg",
+        "linkedin_url": "https://pk.linkedin.com/in/hafiza-fizza-javed-a62b84299"
+    },
+    {
+        "position": "Lab Engineer",
+        "name": "Muhammad Fahad Irshad",
+        "academic_info": "BS Computer Science, Virtual University, Pakistan",
+        "email": "fahad.irshad@umt.edu.pk",
+        "image_url": "https://admin.umt.edu.pk/Media/UserProfile/638527644401140470114.jpg",
+        "image_path": "faculty_images/Muhammad_Fahad_Irshad.jpg",
+        "linkedin_url": "https://pk.linkedin.com/in/muhammadfahadirshad"
+    },
+    {
+        "position": "Lab Engineer",
+        "name": "Zohaib Ashraf",
+        "academic_info": "BS Information Technology, Agriculture University Faisalabad, Pakistan",
+        "email": "zohaib.ashraf@umt.edu.pk",
+        "image_url": "https://admin.umt.edu.pk/Media/UserProfile/638747790446444801644.jpg",
+        "image_path": "faculty_images/Zohaib_Ashraf.jpg",
+        "linkedin_url": "https://pk.linkedin.com/in/zohaib-ashraf-0b90b4205"
+    },
+    {
+        "position": "Lab Engineer",
+        "name": "Junaid Ali Bhatti",
+        "academic_info": "BS Computer Science, COMSATS University Islamabad, Lahore Campus, Pakistan",
+        "email": "junaid.ali@umt.edu.pk",
+        "image_url": "https://admin.umt.edu.pk/Media/UserProfile/638747787882622942262.jpg",
+        "image_path": "faculty_images/Junaid_Ali_Bhatti.jpg",
+        "linkedin_url": "https://pk.linkedin.com/in/junaid-ali-bhatti-34b680243"
+    },
+    {
+        "position": "Lab Engineer",
+        "name": "Sameer Ahmed",
+        "academic_info": "BS Computer Science, University of Management and Technology, Pakistan",
+        "email": "sameer_ahmed@umt.edu.pk",
+        "image_url": "https://admin.umt.edu.pk/Media/UserProfile/638711580136148614614.jpg",
+        "image_path": "faculty_images/Sameer_Ahmed.jpg",
+        "linkedin_url": "https://pk.linkedin.com/in/sameer-ahmed-b3946b238"
+    },
+    {
+        "position": "Lab Engineer",
+        "name": "Jaweria Aamir Ali",
+        "academic_info": "BS Electrical Engineering, University of Engineering and Technology, Pakistan",
+        "email": "jaweria.amir@umt.edu.pk",
+        "image_url": "https://admin.umt.edu.pk/Media/UserProfile/638747937986461454646.jpg",
+        "image_path": "faculty_images/Jaweria_Aamir_Ali.jpg",
+        "linkedin_url": "https://pk.linkedin.com/in/jaweria-aamir-ali-6b2146226"
+    },
+    {
+        "position": "Lab Engineer",
+        "name": "Shifa Naveed",
+        "academic_info": "BS Software Engineering, University of Management and Technology, Pakistan",
+        "email": "shifa_naveed@umt.edu.pk",
+        "image_url": "https://admin.umt.edu.pk/Media/UserProfile/638538881069246446924.jpg",
+        "image_path": "faculty_images/Shifa_Naveed.jpg",
+        "linkedin_url": "https://www.linkedin.com/pub/dir/shifa/naveed"
+    },
+    {
+        "position": "Lab Engineer",
+        "name": "Muhammad Rizwan",
+        "academic_info": "BS Computer Science, University of Central Punjab, Pakistan",
+        "email": "m.rizwan@umt.edu.pk",
+        "image_url": "https://admin.umt.edu.pk/Media/UserProfile/638744400221605893160.jpg",
+        "image_path": "faculty_images/Muhammad_Rizwan.jpg",
+        "linkedin_url": "https://pk.linkedin.com/in/muhammad-rizwan-b66357144"
+    },
+    {
+        "position": "Lab Engineer",
+        "name": "Intesab Mohi ud din",
+        "academic_info": "BS Electrical Engineering, University of Management and Technology, Pakistan",
+        "email": "intesab.mohiuddin@umt.edu.pk",
+        "image_url": "https://admin.umt.edu.pk/Media/UserProfile/unknown.jpg",
+        "image_path": "faculty_images/Intesab_Mohi_ud_din.jpg",
+        "linkedin_url": "https://pk.linkedin.com/in/intesab-mohi-ud-din-142756235"
+    },
+    {
+        "position": "Lab Engineer",
+        "name": "Sharmeen Amir",
+        "academic_info": "BS Software Engineering, University of Management and Technology, Pakistan",
+        "email": "sharmeen.amir@umt.edu.pk",
+        "image_url": "https://admin.umt.edu.pk/Media/UserProfile/638744400511480213148.jpg",
+        "image_path": "faculty_images/Sharmeen_Amir.jpg",
+        "linkedin_url": "https://pk.linkedin.com/in/sharmeen-amir-598b111a6"
+    },
+    {
+        "position": "Lab Engineer",
+        "name": "Ahmad Yar",
+        "academic_info": "BS Computer Science, Bahauddin Zakariya University, Multan, (BZU), Pakistan",
+        "email": "ahmad.yar@umt.edu.pk",
+        "image_url": "https://admin.umt.edu.pk/Media/UserProfile/638586307655681947568.jpg",
+        "image_path": "faculty_images/Ahmad_Yar.jpg",
+        "linkedin_url": "https://pk.linkedin.com/in/ahmad-yar-763975237"
+    },
+    {
+        "position": "Lab Engineer",
+        "name": "Muhammad Siddiqui",
+        "academic_info": "BS Information Technology, University of Punjab, Pakistan",
+        "email": "muhammad_siddique@umt.edu.pk",
+        "image_url": "https://admin.umt.edu.pk/Media/UserProfile/638548274066738146673.jpg",
+        "image_path": "faculty_images/Muhammad_Siddiqui.jpg",
+        "linkedin_url": "https://pk.linkedin.com/in/muhammad-usman-siddiqui-75785610"
+    },
+    {
+        "position": "Lab Engineer",
+        "name": "Muhammad Haroon",
+        "academic_info": "BS Computer Science, Riphah International University, Islamabad, Pakistan",
+        "email": "muhammad_haroon@umt.edu.pk",
+        "image_url": "https://admin.umt.edu.pk/Media/UserProfile/63874440091067243167.jpg",
+        "image_path": "faculty_images/Muhammad_Haroon.jpg",
+        "linkedin_url": "https://pk.linkedin.com/in/muhammadharoon07"
+    },
+    {
+        "position": "Lab Engineer",
+        "name": "Sehrish Riaz",
+        "academic_info": "BS Computer Science, University of Management and Technology, Pakistan",
+        "email": "sehrish.riaz@umt.edu.pk",
+        "image_url": "https://admin.umt.edu.pk/Media/UserProfile/63874440105023630723.jpg",
+        "image_path": "faculty_images/Sehrish_Riaz.jpg",
+        "linkedin_url": "https://pk.linkedin.com/in/sehrish-riaz-85ba03161"
+    },
+    {
+        "position": "Lab Engineer",
+        "name": "Sheza Shabir",
+        "academic_info": "BS Information Technology, University of Management and Technology, Pakistan",
+        "email": "shezashabir@umt.edu.pk",
+        "image_url": "https://admin.umt.edu.pk/Media/UserProfile/638706601203681783368.jpg",
+        "image_path": "faculty_images/Sheza_Shabir.jpg",
+        "linkedin_url": "https://pk.linkedin.com/in/sheza-shabir-291544247"
+    },
+    {
+        "position": "Lab Engineer",
+        "name": "Tahir Mehmood",
+        "academic_info": "BS Information Technology, University of Punjab, Pakistan",
+        "email": "tahir.mehmood@umt.edu.pk",
+        "image_url": "https://admin.umt.edu.pk/Media/UserProfile/638744401416411712641.jpg",
+        "image_path": "faculty_images/Tahir_Mehmood.jpg",
+        "linkedin_url": "https://pk.linkedin.com/in/tahir-mehmood-602821294"
+    },
+    {
+        "position": "Lab Engineer",
+        "name": "Faisal Nadeem",
+        "academic_info": "BS Computer Science, Gomal University Dera Ismail Khan, Pakistan",
+        "email": "faisal.nadeem@umt.edu.pk",
+        "image_url": "https://admin.umt.edu.pk/Media/UserProfile/638744401538496356849.jpg",
+        "image_path": "faculty_images/Faisal_Nadeem.jpg",
+        "linkedin_url": "https://pk.linkedin.com/in/faisal-nadeem-a8a710b0"
+    },
+    {
+        "position": "Lab Engineer",
+        "name": "Emmara Zulfiqar",
+        "academic_info": "BS Electrical Engineering, University of Management and Technology, Sialkot, Pakistan",
+        "email": "emmara.zulfiqar@umt.edu.pk",
+        "image_url": "https://admin.umt.edu.pk/Media/UserProfile/63870660141010429710.jpg",
+        "image_path": "faculty_images/Emmara_Zulfiqar.jpg",
+        "linkedin_url": "https://pk.linkedin.com/in/emmarazulfiqar"
+    },
+    {
+        "position": "Lab Engineer",
+        "name": "Syed Wajid Ali",
+        "academic_info": "BS Computer Science, University of Management and Technology, Pakistan",
+        "email": "wajidali@umt.edu.pk",
+        "image_url": "https://admin.umt.edu.pk/Media/UserProfile/63870660154078632278.jpg",
+        "image_path": "faculty_images/Syed_Wajid_Ali.jpg",
+        "linkedin_url": "https://pk.linkedin.com/in/syed-wajid-ali-9a1a5a237"
+    },
+    {
+        "position": "Lab Engineer",
+        "name": "Muhammad Sheraz Nawaz",
+        "academic_info": "MS Computer Science, Bahria University, Pakistan\nBS Information Technology, Global Institute Lahore, Pakistan",
+        "email": "sheraz.nawaz@umt.edu.pk",
+        "image_url": "https://admin.umt.edu.pk/Media/UserProfile/638744401837833587783.jpg",
+        "image_path": "faculty_images/Muhammad_Sheraz_Nawaz.jpg",
+        "linkedin_url": "https://pk.linkedin.com/in/msnbulc"
+    },
+    {
+        "position": "Lab Engineer",
+        "name": "Amna Faisal",
+        "academic_info": "BS Information Technology, Bahria University, Pakistan",
+        "email": "amna.faisal@umt.edu.pk",
+        "image_url": "https://admin.umt.edu.pk/Media/UserProfile/638554309455194971519.jpg",
+        "image_path": "faculty_images/Amna_Faisal.jpg",
+        "linkedin_url": "https://sa.linkedin.com/in/amna-faisal-a5b230237"
+    },
+    {
+        "position": "Lab Engineer",
+        "name": "Asma Hamayoun",
+        "academic_info": "BS Software Engineering, University of Management and Technology, Pakistan",
+        "email": "asma.humayoun@umt.edu.pk",
+        "image_url": "https://admin.umt.edu.pk/Media/UserProfile/638744402339248099924.jpg",
+        "image_path": "faculty_images/Asma_Hamayoun.jpg",
+        "linkedin_url": "https://pk.linkedin.com/in/asma-humayoun"
+    },
+    {
+        "position": "Lab Engineer",
+        "name": "Hafiz Muhammad Rizwan",
+        "academic_info": "BS Computer Science, Islamia University of Bahawalpur, Pakistan",
+        "email": "hafiz.rizwan@umt.edu.pk",
+        "image_url": "https://admin.umt.edu.pk/Media/UserProfile/638646907144937407493.jpg",
+        "image_path": "faculty_images/Hafiz_Muhammad_Rizwan.jpg",
+        "linkedin_url": "https://www.linkedin.com/pub/dir/Hafiz%20Muhammad%20/Rizwan%20"
+    },
+    {
+        "position": "Lab Engineer",
+        "name": "Faiza Saeed",
+        "academic_info": "Master in Information Technology, University of Management and Technology, Pakistan",
+        "email": "faiza-saeed@umt.edu.pk",
+        "image_url": "https://admin.umt.edu.pk/Media/UserProfile/638744402495238866523.jpg",
+        "image_path": "faculty_images/Faiza_Saeed.jpg",
+        "linkedin_url": "https://pk.linkedin.com/in/faiza-saeed-051417335"
+    },
+    {
+        "position": "Lab Engineer",
+        "name": "Mirat ul Amina",
+        "academic_info": "MSc Data Science, University of Punjab, Pakistan",
+        "email": "miratul.amina@umt.edu.pk",
+        "image_url": "https://admin.umt.edu.pk/Media/UserProfile/unknown.jpg",
+        "image_path": "faculty_images/Mirat_ul_Amina.jpg",
+        "linkedin_url": "https://pk.linkedin.com/in/mirat-ul-amina-460a80102"
+    },
+    {
+        "position": "Lab Engineer",
+        "name": "Zeenat Tanveer",
+        "academic_info": "",
+        "email": "",
+        "image_url": "https://admin.umt.edu.pk/Media/UserProfile/638652080191142813114.jpg",
+        "image_path": "faculty_images/Zeenat_Tanveer.jpg",
+        "linkedin_url": "https://www.linkedin.com/pub/dir/Zeenat+/Tanveer+"
+    },
+    {
+        "position": "Lab Engineer",
+        "name": "Mudassar Hussain",
+        "academic_info": "Master in Computer Science, Virtual University, Pakistan\nBSc Computer Science, Islamia University of Bahawalpur, Pakistan",
+        "email": "mudassarhussain@umt.edu.pk",
+        "image_url": "https://admin.umt.edu.pk/Media/UserProfile/638669339334096369409.jpg",
+        "image_path": "faculty_images/Mudassar_Hussain.jpg",
+        "linkedin_url": "https://pk.linkedin.com/in/mudassar-hussain-79b759271"
+    },
+    {
+        "position": "Lab Engineer",
+        "name": "Muhammad Saqib",
+        "academic_info": "BSc Electrical Engineering, Federal Urdu University of Arts, Science & Technology, Islamabad, Pakistan",
+        "email": "muhammadsaqib@umt.edu.pk",
+        "image_url": "https://admin.umt.edu.pk/Media/UserProfile/638669339543534030353.jpg",
+        "image_path": "faculty_images/Muhammad_Saqib.jpg",
+        "linkedin_url": "https://pk.linkedin.com/in/engr-m-saqib"
+    },
+    {
+        "position": "Lab Engineer",
+        "name": "Muhammad Jawad Akhtar",
+        "academic_info": "BS Computer Science, University of Management and Technology, Pakistan",
+        "email": "jawad.akhtar@umt.edu.pk",
+        "image_url": "https://admin.umt.edu.pk/Media/UserProfile/638669336633558953355.jpg",
+        "image_path": "faculty_images/Muhammad_Jawad_Akhtar.jpg",
+        "linkedin_url": "https://www.linkedin.com/pub/dir/Muhammad+Jawad/Akhtar"
+    },
+    {
+        "position": "Lab Engineer",
+        "name": "Muhammad Arham",
+        "academic_info": "BSc Computer Science, National University of Computer and Emerging Sciences (FAST), Pakistan",
+        "email": "muhammad.arham@umt.edu.pk",
+        "image_url": "https://admin.umt.edu.pk/Media/UserProfile/638744403551814993181.jpg",
+        "image_path": "faculty_images/Muhammad_Arham.jpg",
+        "linkedin_url": "https://pk.linkedin.com/in/muhammad-arham-1357b0230"
+    },
+    {
+        "position": "Lab Engineer",
+        "name": "Nabeel Ali Khan",
+        "academic_info": "BS Software Engineering, University of South Asia, Pakistan",
+        "email": "nabeel.ali@umt.edu.pk",
+        "image_url": "https://admin.umt.edu.pk/Media/UserProfile/638669334324322362432.jpg",
+        "image_path": "faculty_images/Nabeel_Ali_Khan.jpg",
+        "linkedin_url": "https://pk.linkedin.com/in/nabeel-khan-60494b1b1"
+    },
+    {
+        "position": "Lab Engineer",
+        "name": "Zain Iqbal",
+        "academic_info": "BS Software Engineering, University of Engineering and Technology, Taxila, Pakistan",
+        "email": "zain.iqbal@umt.edu.pk",
+        "image_url": "https://admin.umt.edu.pk/Media/UserProfile/638744404989862369986.jpg",
+        "image_path": "faculty_images/Zain_Iqbal.jpg",
+        "linkedin_url": "https://pk.linkedin.com/in/zainiqbal360"
+    },
+    {
+        "position": "Lab Engineer",
+        "name": "Wasif",
+        "academic_info": "BS Computer Science, University of Central Punjab, Pakistan",
+        "email": "wasif.abid@umt.edu.pk",
+        "image_url": "https://admin.umt.edu.pk/Media/UserProfile/638669322587313202731.jpg",
+        "image_path": "faculty_images/Wasif.jpg",
+        "linkedin_url": "https://pk.linkedin.com/in/muhammad-wasif-8aa080282"
+    },
+    {
+        "position": "Lab Engineer",
+        "name": "Hafiza Daheem",
+        "academic_info": "BS Information Technology, University of Management and Technolgy, Pakistan",
+        "email": "hafiza.daheem@umt.edu.pk",
+        "image_url": "https://admin.umt.edu.pk/Media/UserProfile/638744403894561329456.jpg",
+        "image_path": "faculty_images/Hafiza_Daheem.jpg",
+        "linkedin_url": "https://pk.linkedin.com/in/hafiza-daheeem"
+    },
+    {
+        "position": "Lab Engineer",
+        "name": "Talha Bin Sohail",
+        "academic_info": "BS Software Engineering, University of Central Punjab, Pakistan",
+        "email": "",
+        "image_url": "https://admin.umt.edu.pk/Media/UserProfile/638748823768471364847.jpg",
+        "image_path": "faculty_images/Talha_Bin_Sohail.jpg",
+        "linkedin_url": "https://pk.linkedin.com/in/talhabinsohail"
+    },
+    {
+        "position": "Lab Engineer",
+        "name": "Kamla Salahuddin",
+        "academic_info": "BS Computer Science, Governement College University, Faislabad, Pakistan",
+        "email": "kamla.salahuddin@umt.edu.pk",
+        "image_url": "https://admin.umt.edu.pk/Media/UserProfile/638748835364558171455.jpg",
+        "image_path": "faculty_images/Kamla_Salahuddin.jpg",
+        "linkedin_url": "https://sst.umt.edu.pk/Faculty.aspx"
+    },
+    {
+        "position": "Lab Engineer",
+        "name": "Muhammad Zubair Shafique",
+        "academic_info": "BS Software Engineering, COMSATS University Islamabad, Abbotabad Campus, Pakistan",
+        "email": "zubair.shafique@umt.edu.pk",
+        "image_url": "https://admin.umt.edu.pk/Media/UserProfile/unknown.jpg",
+        "image_path": "faculty_images/Muhammad_Zubair_Shafique.jpg",
+        "linkedin_url": "https://www.linkedin.com/pub/dir/Muhammad++Zubair/Shafique"
+    },
+    {
+        "position": "Lab Engineer",
+        "name": "Abu Huraira",
+        "academic_info": "BS Information Technology, University of Sargodha, Pakistan",
+        "email": "abu.huraira@umt.edu.pk",
+        "image_url": "https://admin.umt.edu.pk/Media/UserProfile/unknown.jpg",
+        "image_path": "faculty_images/Abu_Huraira.jpg",
+        "linkedin_url": "https://pk.linkedin.com/in/abu-huraira-connect"
+    },
+    {
+        "position": "Lab Engineer",
+        "name": "Mohammad Umar Farooq",
+        "academic_info": "BS Software Engineering, University of Management and Technology, Pakistan",
+        "email": "umarfarooq@umt.edu.pk",
+        "image_url": "https://admin.umt.edu.pk/Media/UserProfile/638744338247621287762.jpg",
+        "image_path": "faculty_images/Mohammad_Umar_Farooq.jpg",
+        "linkedin_url": "https://pk.linkedin.com/in/umarfarooq51"
+    },
+    {
+        "position": "Lab Engineer",
+        "name": "Usama Husnain",
+        "academic_info": "BS Computer Science, University of Management and Technology, Pakistan",
+        "email": "usama.husnain@umt.edu.pk",
+        "image_url": "https://admin.umt.edu.pk/Media/UserProfile/638711579226518559651.jpg",
+        "image_path": "faculty_images/Usama_Husnain.jpg",
+        "linkedin_url": "https://pk.linkedin.com/in/usama-husnain-7544b6210"
+    },
+    {
+        "position": "Lab Engineer",
+        "name": "Ali Hussnain",
+        "academic_info": "BS Computer, University of Management and Technology, Pakistan",
+        "email": "ali.hussnain@umt.edu.pk",
+        "image_url": "https://admin.umt.edu.pk/Media/UserProfile/638744339231909625190.jpg",
+        "image_path": "faculty_images/Ali_Hussnain.jpg",
+        "linkedin_url": "https://pk.linkedin.com/in/alihussnain1919"
+    },
+    {
+        "position": "Lab Engineer",
+        "name": "Usama Amjad",
+        "academic_info": "BS Computer Science, University of South Asia, Pakistan",
+        "email": "usama.amjad@umt.edu.pk",
+        "image_url": "https://admin.umt.edu.pk/Media/UserProfile/638744339365315024531.jpg",
+        "image_path": "faculty_images/Usama_Amjad.jpg",
+        "linkedin_url": "https://pk.linkedin.com/in/usama-amjad-b4477a1b8"
+    },
+    {
+        "position": "Lab Engineer",
+        "name": "Ahmad Abduhu",
+        "academic_info": "BSCS, University of the Punjab, Lahore, Pakistan",
+        "email": "abduhu@umt.edu.pk",
+        "image_url": "https://admin.umt.edu.pk/Media/UserProfile/unknown.jpg",
+        "image_path": "faculty_images/Ahmad_Abduhu.jpg",
+        "linkedin_url": "https://pk.linkedin.com/in/abduhu82"
+    },
+    {
+        "position": "Lab Engineer",
+        "name": "Ahmad Shaoor",
+        "academic_info": "MSc IT, PU - Punjab University Lahore, Pakistan",
+        "email": "ahmad.shaoor@umt.edu.pk",
+        "image_url": "https://admin.umt.edu.pk/Media/UserProfile/unknown.jpg",
+        "image_path": "faculty_images/Ahmad_Shaoor.jpg",
+        "linkedin_url": "https://pk.linkedin.com/in/ahmad-shaoor-a67369231"
+    },
+    {
+        "position": "Lab Engineer",
+        "name": "Jawad Hassan",
+        "academic_info": "BS Software Engineering, University of Management and Technology, Pakistan",
+        "email": "jawad.hasan@umt.edu.pk",
+        "image_url": "https://admin.umt.edu.pk/Media/UserProfile/638745467384497580449.jpg",
+        "image_path": "faculty_images/Jawad_Hassan.jpg",
+        "linkedin_url": "https://pk.linkedin.com/in/jawad-hassan-0b5a7b295"
+    },
+    {
+        "position": "Lab Engineer",
+        "name": "Muhammad Amir Waseem",
+        "academic_info": "Bachelor in Business & Information Technology, University of the Punjab, Pakistan",
+        "email": "amir.waseem@umt.edu.pk",
+        "image_url": "https://admin.umt.edu.pk/Media/UserProfile/638706408009281027928.jpg",
+        "image_path": "faculty_images/Muhammad_Amir_Waseem.jpg",
+        "linkedin_url": "https://pk.linkedin.com/in/muhammad-waseem-7b4469351"
+    },
+    {
+        "position": "Leave/Study Leave",
+        "name": "Dr Muhammad Kabir",
+        "academic_info": "Dr Muhammad Kabir\nStudy Leave\nAssistant Professor\nHEC Approved PhD Supervisor\nPhD Computer Sciences, Nanajing University of Science and Technology, Nanjing, China",
+        "email": "muhammad.kabir@umt.edu.pk",
+        "image_url": "https://admin.umt.edu.pk/Media/UserProfile/637411281157573758757.jpg",
+        "image_path": "faculty_images/Dr_Muhammad_Kabir.jpg",
+        "linkedin_url": "https://se.linkedin.com/in/mdkabircs"
+    },
+    {
+        "position": "Leave/Study Leave",
+        "name": "Rana Marwat Hussain",
+        "academic_info": "Rana Marwat Hussain\nStudy Leave\nLecturer\nM Phil Computer science, COMSATS University, Pakistan",
+        "email": "marwat.hussain@umt.edu.pk",
+        "image_url": "https://admin.umt.edu.pk/Media/UserProfile/637994535389891873989.jpg",
+        "image_path": "faculty_images/Rana_Marwat_Hussain.jpg",
+        "linkedin_url": "https://pk.linkedin.com/in/ranamarwathussain1"
+    },
+    {
+        "position": "Leave/Study Leave",
+        "name": "Rehan Raza",
+        "academic_info": "Rehan Raza\nOn Leave\nLecturer\nMS Computer Science, COMSATS University, Pakistan",
+        "email": "rehan.raza@umt.edu.pk",
+        "image_url": "https://admin.umt.edu.pk/Media/UserProfile/637841463076368842636.jpeg",
+        "image_path": "faculty_images/Rehan_Raza.jpg",
+        "linkedin_url": "https://pk.linkedin.com/in/rehan-raza"
+    },
+    {
+        "position": "Leave/Study Leave",
+        "name": "Muhammad Abdul Jabbar",
+        "academic_info": "Muhammad Abdul Jabbar\nStudy Leave\nLecturer\nMS Computer Science, COMSATS University, Pakistan",
+        "email": "abduljabbar@umt.edu.pk",
+        "image_url": "https://admin.umt.edu.pk/Media/UserProfile/637885703716239233623.jpg",
+        "image_path": "faculty_images/Muhammad_Abdul_Jabbar.jpg",
+        "linkedin_url": "https://pk.linkedin.com/in/abdul-jabbar-b6912629"
+    },
+    {
+        "position": "Leave/Study Leave",
+        "name": "Kamran Arshad",
+        "academic_info": "Kamran Arshad\nLecturer\nMS Computer Science, UMT Lahore, Pakistan\nBS Hons Computer Science, PU - Punjab University Lahore, Pakistan",
+        "email": "kamran.arshad@umt.edu.pk",
+        "image_url": "https://admin.umt.edu.pk/Media/UserProfile/637883723636903850690.jpg",
+        "image_path": "faculty_images/Kamran_Arshad.jpg",
+        "linkedin_url": "https://www.linkedin.com/in/karshad01"
+    },
+    {
+        "position": "Leave/Study Leave",
+        "name": "Naila Aslam",
+        "academic_info": "Naila Aslam\nLecturer\nMS Computer Science, Islamia University of Bahawalpur, Pakistan",
+        "email": "naila.aslam@umt.edu.pk",
+        "image_url": "https://admin.umt.edu.pk/Media/UserProfile/637994403455544624554.jpg",
+        "image_path": "faculty_images/Naila_Aslam.jpg",
+        "linkedin_url": "https://pk.linkedin.com/in/naila-aslam-295959272"
+    },
+    {
+        "position": "Leave/Study Leave",
+        "name": "Waqar Hussain",
+        "academic_info": "Waqar Hussain\nLecturer\nMS Computer Science, UMT, Lahore, Pakistan",
+        "email": "waqar-hussain@umt.edu.pk",
+        "image_url": "https://admin.umt.edu.pk/Media/UserProfile/637994602875900911590.jpg",
+        "image_path": "faculty_images/Waqar_Hussain.jpg",
+        "linkedin_url": "https://pk.linkedin.com/in/waqar-hussain-45525a251"
+    },
+    {
+        "position": "Leave/Study Leave",
+        "name": "Furqan Rustam",
+        "academic_info": "Furqan Rustam\nLecturer\nMS Computer Science, Khawaja Fareed University of Engineering & Information Technology, Pakistan",
+        "email": "furqan.rustam@umt.edu.pk",
+        "image_url": "https://admin.umt.edu.pk/Media/UserProfile/637994609459740241974.jpg",
+        "image_path": "faculty_images/Furqan_Rustam.jpg",
+        "linkedin_url": "https://ie.linkedin.com/in/furqan-rustam-44963b136"
+    },
+    {
+        "position": "Leave/Study Leave",
+        "name": "Faria Ferooz",
+        "academic_info": "Faria Ferooz\nStudy leave\nLecturer\nMS- Software Engineering, University of Management and Technology, Pakistan\nBS Honors- Software Engineering, University of Management and Technology, Pakistan",
+        "email": "faria.ferooz@umt.edu.pk",
+        "image_url": "https://admin.umt.edu.pk/Media/UserProfile/unknown.jpg",
+        "image_path": "faculty_images/Faria_Ferooz.jpg",
+        "linkedin_url": "https://sst.umt.edu.pk/se/Faculty-and-Staff.aspx"
+    },
+    {
+        "position": "Leave/Study Leave",
+        "name": "Maryam Kamal",
+        "academic_info": "Maryam Kamal\nStudy leave\nLecturer\nMPhil - Computer Science, NUCES - FAST University, Pakistan\nBS- Software Engineering, Punjab University College of Information & Technology, Pakistan",
+        "email": "maryam.kamal@umt.edu.pk",
+        "image_url": "https://admin.umt.edu.pk/Media/UserProfile/637124618929404309940.jpg",
+        "image_path": "faculty_images/Maryam_Kamal.jpg",
+        "linkedin_url": "https://www.linkedin.com/pub/dir/Maryam%20/Kamal%20"
+    },
+    {
+        "position": "Leave/Study Leave",
+        "name": "Ayesha Ashraf",
+        "academic_info": "Ayesha Ashraf\nLong Leave\nLecturer\nMS Computer Science, Bahria University, Pakistan\nBSc Information Technology, University of Education, Pakistan",
+        "email": "ayeshaashraf@umt.edu.pk",
+        "image_url": "https://admin.umt.edu.pk/Media/UserProfile/638711578135815241581.jpg",
+        "image_path": "faculty_images/Ayesha_Ashraf.jpg",
+        "linkedin_url": "https://pk.linkedin.com/in/ayesha-ashraf-5b4092274"
+    },
+    {
+        "position": "Leave/Study Leave",
+        "name": "Dr Sameera Basit",
+        "academic_info": "Dr Sameera Basit\nLong Leave\nAssistant Professor\nPhD Computer Science, Saitama University, Japan\nMS Computer Science, Lahore Collage of Women University, Pakistan",
+        "email": "sameera.basit@umt.edu.pk",
+        "image_url": "https://admin.umt.edu.pk/Media/UserProfile/638356668438036041803.jpg",
+        "image_path": "faculty_images/Dr_Sameera_Basit.jpg",
+        "linkedin_url": "https://www.linkedin.com/pub/dir/Sameera/Basit"
+    },
+    {
+        "position": "Leave/Study Leave",
+        "name": "Sana Zubair",
+        "academic_info": "Sana Zubair\nLong Leave\nLab Engineer\nMSc Computer Science, University of Punjab, Pakistan",
+        "email": "sana.zubair@umt.edu.pk",
+        "image_url": "https://admin.umt.edu.pk/Media/UserProfile/unknown.jpg",
+        "image_path": "faculty_images/Sana_Zubair.jpg",
+        "linkedin_url": "https://pk.linkedin.com/in/sana-zubair-rana-981a0a1b6"
+    },
+    {
+        "position": "Leave/Study Leave",
+        "name": "Dr Syed Khuram Shahzad",
+        "academic_info": "Dr Syed Khuram Shahzad\nOn Leave\nAssociate Professor\nPhD- Informatics, Knowledge Technologies Institute, Graz University of Technology, Austria\nMSc- Compter Science, Quad-i-Azam University, Pakistan",
+        "email": "syed.khuram@umt.edu.pk",
+        "image_url": "https://admin.umt.edu.pk/Media/UserProfile/637080361916513896651.jpg",
+        "image_path": "faculty_images/Dr_Syed_Khuram_Shahzad.jpg",
+        "linkedin_url": "https://pk.linkedin.com/in/dr-shahzada-khurram-syed-976747250"
+    },
+    {
+        "position": "Leave/Study Leave",
+        "name": "Emmen Farooq",
+        "academic_info": "Emmen Farooq\nAssistant Professor\nPhD Scholar - Computer Science, University of Management & Technology, Pakistan\nMS - Computer Science, Lahore University of Management Sciences, Pakistan",
+        "email": "emmen.farooq@umt.edu.pk",
+        "image_url": "https://admin.umt.edu.pk/Media/UserProfile/636758078014165822416.JPG",
+        "image_path": "faculty_images/Emmen_Farooq.jpg",
+        "linkedin_url": "https://pk.linkedin.com/in/emmen-farooq-0270b873"
+    },
+    {
+        "position": "Leave/Study Leave",
+        "name": "Ahtsham Ali",
+        "academic_info": "Ahtsham Ali\nAssistant Professor\nMS - Computer Science, Lahore University of Management Sciences, Pakistan\nBS - Computer Science, FAST National University, Pakistan",
+        "email": "ahtsham.ali@umt.edu.pk",
+        "image_url": "https://admin.umt.edu.pk/Media/UserProfile/747.jpg",
+        "image_path": "faculty_images/Ahtsham_Ali.jpg",
+        "linkedin_url": "https://pk.linkedin.com/in/ahtsham-ali-a16297250"
+    },
+    {
+        "position": "Leave/Study Leave",
+        "name": "Mehr Un Nisa",
+        "academic_info": "Mehr Un Nisa\nStudy leave\nLecturer\nMS - Computer Science, FAST National University, Pakistan\nBSc - Mathematics, Government College Faisalabad, Pakistan",
+        "email": "mehr.nisa@umt.edu.pk",
+        "image_url": "https://admin.umt.edu.pk/Media/UserProfile/636753941512269268226.jpg",
+        "image_path": "faculty_images/Mehr_Un_Nisa.jpg",
+        "linkedin_url": "https://pk.linkedin.com/in/mehr-un-nisa-845909178"
+    },
+    {
+        "position": "Leave/Study Leave",
+        "name": "Adeel Ashraf",
+        "academic_info": "Adeel Ashraf\nStudy Leave\nLecturer\nMS- Computer Science, University of Management & Technology, Lahore, Pakistan, 2016\nBS- Computer Science, University of Management and Technology, Lahore, Pakistan, 2014",
+        "email": "adeel.ashraf@umt.edu.pk",
+        "image_url": "https://admin.umt.edu.pk/Media/UserProfile/637279018632253548225.png",
+        "image_path": "faculty_images/Adeel_Ashraf.jpg",
+        "linkedin_url": "https://pk.linkedin.com/in/adeel-ashraf-1882a3174"
+    }
+]

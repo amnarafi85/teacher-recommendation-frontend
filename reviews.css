@@ -1,0 +1,215 @@
+/* General Styling */
+body {
+    font-family: 'Arial', sans-serif;
+    background: linear-gradient(to bottom, #0A1E40, #102A52, #142F62);
+    color: white;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+/* Header */
+header {
+    background: #162A46;
+    padding: 20px;
+    border-bottom: 4px solid #F5A623;
+}
+
+h1 {
+    font-size: 30px;
+    font-weight: bold;
+    text-transform: uppercase;
+    color: #F5A623;
+}
+
+/* Review Form */
+.review-form {
+    background: #1B2C55;
+    padding: 30px;
+    border-radius: 15px;
+    width: 55%;
+    margin: 40px auto;
+    box-shadow: 0px 5px 15px rgba(0, 0, 0, 0.4);
+    transition: transform 0.3s ease-in-out;
+}
+
+/* Adjust form for smaller screens */
+@media (max-width: 1024px) {
+    .review-form {
+        width: 75%;
+        padding: 25px;
+    }
+}
+
+@media (max-width: 768px) {
+    .review-form {
+        width: 90%;
+        padding: 20px;
+    }
+}
+
+/* Smooth hover effect */
+.review-form:hover {
+    transform: scale(1.03);
+}
+
+/* Labels */
+label {
+    font-size: 18px;
+    display: block;
+    margin-top: 15px;
+    color: #FFD369;
+    font-weight: bold;
+}
+
+/* Input Fields & Dropdowns */
+select, input, textarea {
+    width: 95%;
+    padding: 12px;
+    margin-top: 8px;
+    border: 2px solid #F5A623;
+    border-radius: 5px;
+    font-size: 16px;
+    background: #1F3A68;
+    color: white;
+    transition: all 0.3s ease-in-out;
+}
+
+/* Adjust Input Fields for Mobile */
+@media (max-width: 768px) {
+    select, input, textarea {
+        font-size: 14px;
+        padding: 10px;
+    }
+}
+
+/* Hover effect for inputs & dropdowns */
+select:hover, input:hover, textarea:hover {
+    background: #254270;
+    border-color: #FFD700;
+}
+
+/* Adjusted select dropdown */
+.grade-dropdown {
+    width: 98%;
+    padding: 10px;
+    border-radius: 5px;
+    font-size: 16px;
+}
+
+/* Star Ratings */
+.star-rating {
+    font-size: 24px;
+    cursor: pointer;
+    margin: 10px 0;
+}
+
+/* Star Colors */
+.behavior-stars .star {
+    color: #007BFF;
+}
+
+.grading-stars .star {
+    color: #FFA500;
+}
+
+.teaching-stars .star {
+    color: #28A745;
+}
+
+.star.active {
+    color: #FFD700;
+}
+
+/* Submit Button */
+button {
+    background: linear-gradient(135deg, #F5A623, #FFB600);
+    color: white;
+    border: none;
+    cursor: pointer;
+    transition: all 0.3s ease-in-out;
+    font-size: 20px;
+    padding: 14px;
+    border-radius: 10px;
+    font-weight: bold;
+    width: 100%;
+    margin-top: 20px;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.3);
+}
+
+/* Adjust Submit Button for Mobile */
+@media (max-width: 768px) {
+    button {
+        font-size: 18px;
+        padding: 12px;
+    }
+}
+
+/* Hover effect for submit button */
+button:hover {
+    background: linear-gradient(135deg, #FFD700, #FFC400);
+    color: black;
+    transform: scale(1.08);
+    box-shadow: 0px 6px 15px rgba(0, 0, 0, 0.5);
+}
+
+/* Reviews Container */
+#reviews-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 12px;
+    padding: 20px;
+}
+
+/* Review Card */
+.review-card {
+    background: linear-gradient(135deg, #152347, #21478a);
+    color: #fff;
+    width: 30%;
+    padding: 12px;
+    border-radius: 12px;
+    box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.3);
+    transition: transform 0.3s ease-in-out;
+    text-align: left;
+    font-size: 14px;
+}
+
+/* Adjust Review Cards for Different Screens */
+@media (max-width: 1024px) {
+    .review-card {
+        width: 45%; /* 2 per row on tablets */
+    }
+}
+
+@media (max-width: 768px) {
+    .review-card {
+        width: 90%; /* 1 per row on mobile */
+    }
+}
+
+/* Alternate Colors for Review Boxes */
+.review-card:nth-child(even) {
+    background: linear-gradient(135deg, #1c2c4e, #2b5699);
+}
+
+/* Hover Effect for Review Boxes */
+.review-card:hover {
+    transform: scale(1.05);
+    box-shadow: 0px 6px 12px rgba(0, 0, 0, 0.5);
+}
+
+/* Star Rating */
+.star-rating {
+    color: #ffd700;
+    font-size: 1rem;
+    font-weight: bold;
+}
+
+/* Responsive Design for Teacher Filter Dropdown */
+@media (max-width: 768px) {
+    #teacherFilter {
+        width: 50%;
+        font-size: 14px;
+    }
+}

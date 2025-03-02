@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Teachers Directory - UMT</title>
+    <link rel="stylesheet" href="teachers.css">
+</head>
+<body>
+
+    <!-- Header Section -->
+    <header>
+        <h1>Teachers Directory</h1>
+    </header>
+
+    <!-- Search Bar -->
+    <div class="search-container">
+        <input type="text" id="searchBox" onkeyup="searchTeachers()" placeholder="Search for teachers by name or position...">
+    </div>
+
+    <!-- Teachers Directory -->
+    <div id="teachers-container" class="teachers-grid">
+        <!-- Teachers will be loaded here dynamically -->
+    </div>
+
+    <script src="teachers.js"></script>
+
+</body>
+</html>
