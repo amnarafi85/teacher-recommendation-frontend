@@ -1,6 +1,7 @@
 document.addEventListener("DOMContentLoaded", function () {
     loadTeachers();
     loadApprovedReviews();
+    setInterval(loadApprovedReviews, 60000); // Refresh reviews every 60 seconds
 });
 
 /* Load Teachers into Dropdown */
@@ -9,6 +10,7 @@ function loadTeachers() {
         .then(response => response.json())
         .then(data => {
             const teacherSelect = document.getElementById("teacherSelect");
+            teacherSelect.innerHTML = '<option value="">Select a Teacher</option>'; // Reset dropdown
 
             data.forEach(teacher => {
                 let option = document.createElement("option");
@@ -59,30 +61,26 @@ function submitReview() {
     const gradeReceived = document.getElementById("grade").value.trim(); // Optional Field
     const reviewText = document.getElementById("reviewText").value.trim();
 
-    // Check if all required fields are filled
-    if (!studentId || !teacherName || !subject || reviewText === "" || 
+    if (!studentId || !teacherName || !subject || reviewText === "" ||
         selectedStars.behavior === 0 || selectedStars.grading === 0 || selectedStars.teaching === 0) {
         alert("Please complete all required fields.");
         return;
     }
 
-    // Prepare Review Data (Exclude Grade if Empty)
-    let review = { 
-        teacher_name: teacherName, 
-        student_id: studentId, 
-        subject: subject, 
-        teacher_behavior: selectedStars.behavior, 
-        grading_criteria: selectedStars.grading, 
-        teaching_quality: selectedStars.teaching, 
-        review_text: reviewText 
+    let review = {
+        teacher_name: teacherName,
+        student_id: studentId,
+        subject: subject,
+        teacher_behavior: selectedStars.behavior,
+        grading_criteria: selectedStars.grading,
+        teaching_quality: selectedStars.teaching,
+        review_text: reviewText
     };
 
-    // Add grade only if the user has selected one
     if (gradeReceived) {
         review.grade_received = gradeReceived;
     }
 
-    // Send Data to Backend
     fetch("https://teacher-recommendationn.onrender.com/api/reviews/", {
         method: "POST",
         headers: { "Content-Type": "application/json" },
@@ -97,27 +95,30 @@ function submitReview() {
     .then(data => {
         console.log("Review submitted:", data);
         alert("Review submitted successfully!");
-        location.reload(); // Refresh page after submission
+        loadApprovedReviews(); // Refresh reviews after submission
     })
     .catch(error => console.error("Error submitting review:", error));
 }
 
 /* Load and Display Approved Reviews */
 function loadApprovedReviews() {
-    fetch("https://teacher-recommendationn.onrender.com/api/reviews/approved/")  // ✅ Fetch only approved reviews
+    fetch("https://teacher-recommendationn.onrender.com/api/reviews/approved/?nocache=" + new Date().getTime()) // Cache-buster
         .then(response => response.json())
         .then(data => {
+            console.log("Approved Reviews:", data); // Debugging API response
+
             const reviewsContainer = document.getElementById("reviews-container");
             const teacherFilter = document.getElementById("teacherFilter");
 
-            reviewsContainer.innerHTML = ""; // Clear old data
+            reviewsContainer.innerHTML = ""; // Clear previous reviews
+            teacherFilter.innerHTML = '<option value="all">All Teachers</option>'; // Reset filter before adding options
+
             let teachers = new Set();
 
             data.forEach(review => {
-                teachers.add(review.teacher_name);  // Collect unique teacher names
+                teachers.add(review.teacher_name);
             });
 
-            // Populate the teacher filter dropdown
             teachers.forEach(teacher => {
                 let option = document.createElement("option");
                 option.value = teacher;
@@ -125,10 +126,9 @@ function loadApprovedReviews() {
                 teacherFilter.appendChild(option);
             });
 
-            // Function to display reviews
             function displayReviews(filterTeacher = "all") {
-                reviewsContainer.innerHTML = ""; // Clear previous reviews
-                
+                reviewsContainer.innerHTML = "";
+
                 data.forEach(review => {
                     if (filterTeacher !== "all" && review.teacher_name !== filterTeacher) return;
 
@@ -149,10 +149,8 @@ function loadApprovedReviews() {
                 });
             }
 
-            // Display all reviews initially
-            displayReviews();
+            displayReviews(); // Show all reviews initially
 
-            // Add event listener for dropdown filter
             window.filterReviews = function () {
                 let selectedTeacher = teacherFilter.value;
                 displayReviews(selectedTeacher);
